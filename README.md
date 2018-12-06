@@ -6,7 +6,13 @@ This repository provides an open collection of Lists and Mixes which can be used
   
 ## How to view these Collections
 
-For viewing Lists
+Library.Link Collections can be defined in 2 different ways. 
+
+1) [Lists](https://github.com/zepheira/librarylink_collections/tree/master/lists). Lists are an ordered set of Library Items that have been organized for a particular purpose. Any List can be used by any Library thats part of the Library.Link Network. 
+
+2) [Mixes](https://github.com/zepheira/librarylink_collections/tree/master/mixes). A Mix allows Library Items that share Concepts (including more specialized Persons, Topics, Forms, Places, etc.) to be mixed together to create new collections.  Any Mix can be used by any Library thats part of the Library.Link Network. 
+
+### For viewing Lists
 
 - http://labs.library.link/services/lister/ 
 
@@ -18,7 +24,7 @@ For viewing Lists
     - LibraryReads Favorite of Favorites 2018 at DC Public Library Library System
         - http://labs.library.link/services/lister/?domain=http://link.dclibrary.org/&list=https://raw.githubusercontent.com/zepheira/librarylink_collections/master/lists/libraryreads.json
     
-For viewing Mixes
+### For viewing Mixes
 
 - http://labs.library.link/services/mixer/ 
 
