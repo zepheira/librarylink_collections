@@ -14,6 +14,10 @@ For viewing Lists
     - domain : A Library's canonical Library.Link domain
     - list : a URL to the list
     
+- Examples
+    - LibraryReads Favorite of Favorites 2018 at DC Public Library Library System
+        - http://labs.library.link/services/lister/?domain=http://link.dclibrary.org/&list=https://raw.githubusercontent.com/zepheira/librarylink_collections/master/lists/libraryreads.json
+    
 For viewing Mixes
 
 - http://labs.library.link/services/mixer/ 
@@ -21,6 +25,10 @@ For viewing Mixes
 - Parameter Options
     - domain : A Library's canonical Library.Link domain
     - mix : a URL to the mix
+
+- Examples
+    - "Treating Opioid Addiction" the Timberland Regional Library System
+        - http://labs.library.link/services/mixer/?domain=http://link.trl.org/&mix=https://raw.githubusercontent.com/zepheira/librarylink_collections/master/mixes/opioid_addiction.json
 
 ## Contributing
 
