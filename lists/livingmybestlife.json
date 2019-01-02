@@ -1,0 +1,66 @@
+{
+  "label": "Living My Best Life",
+  "description": "Self-improvement guides: These books help you examine your life, shape your outlook and offer guidance around money, relationships, and career development. These books are recommended by AnnDee at Dallas Public Library.",
+  "list": [
+    {
+      "label": "Essentialism : the disciplined pursuit of less",
+      "isbns": [
+        "9780804137386",
+        "9780804137393",
+        "9780804165327"
+      ]
+    },
+    {
+      "label": "Loving my actual life : an experiment in relishing what's right in front of me",
+      "isbns": [
+        "9780801007811",
+        "9781493404971"
+      ]
+    },
+    {
+      "label": "The four agreements : a practical guide to personal freedom",
+      "isbns": [
+        "9781878424310",
+        "9781878424778"
+      ]
+    },
+    {
+      "label": "The happiness project : or, why I spent a year trying to sing in the morning, clean my closets, fight right, read Aristotle, and generally have more fun",
+      "isbns": [
+        "9780061583261",
+        "9780061962066"
+      ]
+    },
+    {
+      "label": "The life-changing magic of tidying up : the Japanese art of decluttering and organizing",
+      "isbns": [
+        "9781607747314",
+        "9781607747307",
+        "9781494508944"
+      ]
+    },
+    {
+      "label": "The purpose driven life : what on earth am I here for?",
+      "isbns": [
+        "9780310335504",
+        "9780310329060",
+        "9780310296119"
+      ]
+    },
+    {
+      "label": "The subtle art of not giving a fu*k : a counterintuitive approach to living a good life",
+      "isbns": [
+        "9780062457714",
+        "9780062457738",
+        "9780062562982"
+      ]
+    },
+    {
+      "label": "The year of less : how I stopped shopping, gave away my belongings, and discovered life is worth more than anything you can buy in a store",
+      "isbns": [
+        "9781401954871",
+        "9781401953522"
+      ]
+    }
+  ]
+}
