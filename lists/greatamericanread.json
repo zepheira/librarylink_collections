@@ -1105,11 +1105,11 @@
     {
       "label": "The Great Gatsby",
       "isbns": [
+        "9780060098902",
         "9780020198826",
         "9780020199601",
         "9780023381201",
         "9780023957109",
-        "9780060098902",
         "9780060098919",
         "9780099541530",
         "9780140007466",
@@ -1269,7 +1269,7 @@
       ]
     },
     {
-      "label": "The adventures of Tom Sawyer",
+      "label": "The Adventures of Tom Sawyer",
       "isbns": [
         "9781402732874",
         "9781402732881",
@@ -1277,525 +1277,84 @@
         "9781402742699",
         "9781402767531",
         "9781402767548",
-        "9781599613345"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
+        "9781599613345",
         "9780679880707",
-        "9780679980131"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer",
-      "isbns": [
+        "9780679980131",
         "9780764586798",
-        "9780822072119"
-      ]
-    },
-    {
-      "label": "Adventures of Tom Sawyer, The",
-      "isbns": [
-        "9780870865183"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer",
-      "isbns": [
-        "9780671487799"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer",
-      "isbns": [
-        "9780439154543"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer",
-      "isbns": [
-        "9780816725472"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780808162735"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer",
-      "isbns": [
+        "9780822072119",
+        "9780870865183",
+        "9780439154543",
+        "9780671487799",
+        "9780816725472",
+        "9780808162735",
         "9780594091493",
-        "9780594104841"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer",
-      "isbns": [
-        "9780945260196"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9781602707047"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9781551116525"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780486480442"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
+        "9780594104841",
+        "9780945260196",
+        "9781602707047",
+        "9781551116525",
+        "9780486480442",
         "9780194788359",
-        "9780194789004"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780766607637"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780192833891"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780425122419"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9781402712166"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780140390483",
-        "9780140390834"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780665936357"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer",
-      "isbns": [
-        "9780945260196"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780061064982"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780582419230"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
+        "9780194789004",
         "9780140366730",
-        "9780141305448"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9781598890457"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9781405883962"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780451523556"
-      ]
-    },
-    {
-      "label": "The Adventures Of Tom Sawyer",
-      "isbns": [
-        "9781593081393"
-      ]
-    },
-    {
-      "label": "The Adventures Of Tom Sawyer",
-      "isbns": [
-        "9780822492580"
-      ]
-    },
-    {
-      "label": "The Adventures Of Tom Sawyer",
-      "isbns": [
-        "9780670869855"
-      ]
-    },
-    {
-      "label": "The Adventures Of Tom Sawyer",
-      "isbns": [
-        "9780199536566"
-      ]
-    },
-    {
-      "label": "The Adventures Of Tom Sawyer",
-      "isbns": [
-        "9780866119573"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780717278756"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9780766607637"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
+        "9780141305448",
+        "9781598890457",
+        "9781405883962",
+        "9780451523556",
+        "9781593081393",
+        "9780822492580",
+        "9780670869855",
+        "9780199536566",
+        "9780866119573",
+        "9780717278756",
+        "9780766607637",
         "9781577595397",
-        "9781577595564"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9788190696371"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9781402767531"
-      ]
-    },
-    {
-      "label": "The adventures of Tom Sawyer",
-      "isbns": [
-        "9781402767548"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer, Tom Sawyer Abroad, and Tom Sawyer, Detective (Works of Mark Twain)",
-      "isbns": [
-        "9780520033535"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer #3",
-      "isbns": [
-        "9781402742682"
-      ]
-    },
-    {
-      "label": "Reading The adventures of Tom Sawyer",
-      "isbns": [
-        "9780791088289"
-      ]
-    },
-    {
-      "label": "Mark Twain's The adventures of Tom Sawyer",
-      "isbns": [
-        "9781617530005"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer #4",
-      "isbns": [
-        "9781402742699"
-      ]
-    },
-    {
-      "label": "Mark Twain's The adventures of Tom Sawyer",
-      "isbns": [
-        "9781602707047"
-      ]
-    },
-    {
-      "label": "Mark Twain's The adventures of Tom Sawyer",
-      "isbns": [
-        "9781602707047"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer [sound recording]",
-      "isbns": [
-        "9781433210327"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer\r\n            \r\n                Classic Retelling",
-      "isbns": [
-        "9780618120536"
-      ]
-    },
-    {
-      "label": "Mark Twain's The adventures of Tom Sawyer",
-      "isbns": [
-        "9781617530005"
-      ]
-    },
-    {
-      "label": "The Adventures of Tom Sawyer\r\n            \r\n                Complete Classics",
-      "isbns": [
-        "9789626348680"
-      ]
-    },
-    {
-      "label": "The complete adventures of Tom Sawyer",
-      "isbns": [
-        "9781587260995"
-      ]
-    },
-    {
-      "label": "Readings on The adventures of Tom Sawyer",
-      "isbns": [
-        "9781565108448",
-        "9781565108455"
+        "9781577595564",
+        "9788190696371",
+        "9781402767531",
+        "9781402767548",
+        "9780766607637",
+        "9780192833891",
+        "9780425122419",
+        "9781402712166",
+        "9780140390483",
+        "9780140390834",
+        "9780665936357",
+        "9780945260196",
+        "9780061064982",
+        "9780582419230"
       ]
     },
     {
       "label": "1984",
       "isbns": [
         "9780451516756",
-        "9780451521231"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780966599817"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
+        "9780451521231",
+        "9780966599817",
         "9780246123060",
-        "9780345313584"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
+        "9780345313584",
         "9788435903530",
-        "9789681316310"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
+        "9789681316310",
         "9780919573086",
-        "9780919573093"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9788426400260"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780736687683"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780151660384"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780760705568"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9789685270885"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780764191008"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780822008996"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780867291155"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9788423342310"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9781560773238"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9781593720407"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780791093009"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9781408294222"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780451524935"
-      ]
-    },
-    {
-      "label": "\"1984\"",
-      "isbns": [
-        "9788435903530"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
-        "9780582777316"
-      ]
-    },
-    {
-      "label": "1984",
-      "isbns": [
+        "9780919573093",
+        "9788426400260",
+        "9780736687683",
+        "9780151660384",
+        "9780760705568",
+        "9789685270885",
+        "9780764191008",
+        "9780822008996",
+        "9780867291155",
+        "9788423342310",
+        "9781560773238",
+        "9781593720407",
+        "9780791093009",
+        "9781408294222",
+        "9780451524935",
+        "9788435903530",
+        "9780582777316",
         "9781411403246"
       ]
-    },
-    {
-      "label": "AstroAnalysis 1984",
-      "isbns": [
-        "9780448125565"
-      ]
-    },
-    {
-      "label": "1984 Revisited",
-      "isbns": [
-        "9780060151584",
-        "9780060806606"
-      ]
-    },
-    {
-      "label": "1984, spring",
-      "isbns": [
-        "9780246123060",
-        "9780345313577"
-      ]
-    },
-    {
-      "label": "Music Book 1984",
-      "isbns": [
-        "9780030634482",
-        "9780030634512",
-        "9780030634536"
-      ]
-    },
-    {
-      "label": "1984 (Spanish)",
-      "isbns": [
-        "9780613447829"
-      ]
-    },
-    {
-      "label": "Canada 1984",
-      "isbns": [
-        "9780919630093"
-      ]
-    },
-    {
-      "label": "The language of 1984",
-      "isbns": [
-        "9780631136583",
-        "9780631137221",
-        "9780870494123"
-      ]
-    },
-    {
-      "label": "George Orwell's 1984",
-      "isbns": [
-        "9780871295422"
-      ]
-    },
-    {
-      "label": "Finance Act 1984",
-      "isbns": [
-        "9780406080585"
-      ]
-    },
-    {
-      "label": "Approaching 1984",
-      "isbns": [
-        "9780715376546"
-      ]
-    },
-    {
-      "label": "1934-1984",
-      "isbns": [
-        "9782214060056"
-      ]
-    },
+    }, 
     {
       "label": "And Then There Were None",
       "isbns": [
