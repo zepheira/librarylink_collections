@@ -1,6 +1,7 @@
 {
   "label": "The Outlander Series",
   "description": "The Outlander series is a sequence of novels and shorter works written by Diana Gabaldon and focuses on 20th-century British nurse Claire Randall, who time travels to 18th-century Scotland and finds adventure and romance with the dashing Highland warrior Jamie Fraser.",
+  "rank": true,
   "list": [
     {
       "label": "Outlander",
@@ -8,16 +9,12 @@
         "9780099599531",
         "9781419381010",
         "9780440222910",
-        "9788415630425",
         "9780553473292",
         "9781510005525",
         "9781784751371",
         "9780385671088",
         "9780385302302",
-        "9780788712982",
-        "9783442350049",
-        "9788379439232",
-        "9782894303665"
+        "9780788712982"
       ]
     },
     {
