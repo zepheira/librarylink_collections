@@ -2,7 +2,7 @@
   "label": "Movie Novels",
   "description": "Did you like the book or the movie better? Oh, you haven't read the book yet? Well here they are! These audiobooks provide fun stories based on movies for people of all ages.",
   "filters": [
-    "Audio"
+    "AudioBook"
   ],
   "resources": [
     "jo8gGOVkDBo",
