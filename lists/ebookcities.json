@@ -1,16 +1,18 @@
 {
-	  "label": "Ebooks on Cities.",
-	  "description": "A selection of DPL ebooks on cities. From poverty to urban wildlife these books explore the complex, hidden, and sometimes beautiful life of American cities.",
-	  "isbns": [
-	   "9781633882584",
-"9780544103856",
-"9781631492860",
-"9780300228113",
-"9780553447446",
-"9781569760680",
-"9781250125156",
-"9781487002275",
-"9781623363864",
-"9780316260237"
-	  ]
-	}
+  "label": "Ebooks on Cities",
+  "description": "A selection of ebooks on cities. From poverty to urban wildlife these books explore the complex, hidden, and sometimes beautiful life of American cities.",
+  "filter: [
+    "ElectronicResource"
+  "isbns": [
+    "9781633882584",
+    "9780544103856",
+    "9781631492860",
+    "9780300228113",
+    "9780553447446",
+    "9781569760680",
+    "9781250125156",
+    "9781487002275",
+    "9781623363864",
+    "9780316260237"
+  ]
+}
