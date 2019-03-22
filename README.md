@@ -32,7 +32,7 @@ Mixes are more dynamic and blend library items that share concepts (including mo
     
 ### For viewing Mixes
 
-- http://colelctions.library.link/services/mixer/ 
+- http://collections.library.link/services/mixer/ 
 
 - Parameter Options
     - domain : A Library's canonical Library.Link domain
