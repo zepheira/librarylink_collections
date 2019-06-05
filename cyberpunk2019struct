@@ -1,0 +1,117 @@
+  {
+    "label": "Cyberpunk 2019",
+    "description": "Manchester City Library Cyberpunk, structured list",
+    "list": 
+    [
+      {
+        "label":"Cryptonomicon",
+        "isbns": [
+        "9780060575502",
+        "9780061694943",
+        "9780792766537"
+        ]
+        },
+        {
+        "label":"Anathem",
+        "isbns": [
+        "9780061474095",
+        "9780061982484",
+        "9780792759096"
+        ]
+        },
+        {
+        "label":"Ready Player One",
+        "isbns": [
+        "9780307887436",
+        "9780307887450",
+        "9780525624837",
+        "9780307913159"
+        ]
+        },
+        {
+        "label":"Perdido Street Station",
+        "isbns": [
+        "0345443020",
+        "9780345464521",
+        "9780345443021",
+        "9781415964392"
+        ]
+        },
+        {
+        "label":"Altered Carbon",
+        "isbns": [
+        "9780345457684",
+        "9781400121373"
+        ]
+        },
+        {
+        "label":"Infinite Detail",
+        "isbns": [
+        "9780374175412"
+        ]
+        },
+        {
+        "label":"Accelerando",
+        "isbns": [
+         "9780441012848"
+        ]
+        },
+        {
+        "label":"Daemon : a novel",
+        "isbns": [
+         "9780525951117"
+        ]
+        },
+        {
+        "label":"Influx",
+        "isbns": [
+        "9780525953180",
+        "9781629232805"
+        ]
+        },
+        {
+        "label":"Snow Crash",
+        "isbns": [
+         "9780553898194"
+        ]
+        },
+        {
+        "label":"Down and out in the Magic Kingdom ",
+        "isbns": [
+        "9780765304360"
+        ]
+        },
+        {
+        "label":"Count Zero",
+        "isbns": [
+        "9780877957690"
+        ]
+        },
+        {
+        "label":"Otherland: City of Gold Shadow",
+        "isbns": [
+        "9780886777104"
+        ]
+        },
+        {
+        "label":"Hell Divers Trilogy Book 1",
+        "isbns": [
+        "9781504710350",
+        "9781504725866"
+        ]
+        },
+        {
+        "label":"Akira. Book one",
+        "isbns": [
+        "9781569714980"
+        ]
+        },
+        {
+        "label":"The Windup Girl",
+        "isbns": [
+        "9781597801577",   
+        "9781597802369"
+        ]
+        }        
+    ]
+  }
