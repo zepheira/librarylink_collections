@@ -1,0 +1,80 @@
+{
+	"label": "Battle of the Books Oregon 2021 Highschool ",
+	"description": "Oregon's Battle of the Books 2021 - 9th -12th Grade Division .",
+	"list": [{
+			"label": "A Different Drummer",
+			"isbns": [
+				"9780385413909",
+				"9780593170786"
+			]
+		},
+		{
+			"label": "Dread Nation",
+			"isbns": [
+				"9780062570604"
+			]
+		},
+		{
+			"label": "Dry",
+			"isbns": [
+				"9781508263081",
+				"9781878424778"
+			]
+		},
+		{
+			"label": "The Field Guide to the North American Teenager ",
+			"isbns": [
+				"9780062824110"
+			]
+		},
+		{
+			"label": "Hey, Kiddo ",
+			"isbns": [
+				"9780545902489",
+				"9780545902472",
+				"9781544420523"
+			]
+		},
+		{
+			"label": "Let Me Hear a Rhyme",
+			"isbns": [
+				"9780062840325"
+			]
+		},
+		{
+			"label": "Lovely War ",
+			"isbns": [
+				"9780451469939",
+				"9781984838261"
+			]
+		},
+		{
+			"label": "Moxie",
+			"isbns": [
+				"9781250104267",
+				"9781501968051",
+				"9781626726352"
+			]
+		},
+		{
+			"label": "Patron Saints of Nothing ",
+			"isbns": [
+				"9781984814722"
+			]
+		},
+		{
+			"label": "Pumpkinheads",
+			"isbns": [
+				"9781626721623",
+				"9781250312853"
+			]
+		},
+		{
+			"label": "Thorn",
+			"isbns": [
+				"9780062835703",
+				"9781470181338"
+			]
+		}
+	]
+}
