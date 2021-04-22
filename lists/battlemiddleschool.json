@@ -1,0 +1,124 @@
+{
+ 	"label": "Battle of the Books Oregon 2021 (Middle School)",
+ 	"description": "Oregon's Battle of the Books 2021: 6th-8th Grade Division.",
+ 	"list": [
+		{
+ 			"label": "Akata Witch",
+ 			"isbns": [
+ 				"9780670011964",
+ 				"9781977302427"
+ 			]
+ 		},
+ 		{
+ 			"label": "Almost American Girl",
+ 			"isbns": [
+ 				"9780062685100",
+     "9780062685094"
+ 			]
+ 		},
+ 		{
+ 			"label": "Archimancy",
+ 			"isbns": [
+ 				"9780062838285",
+ 				"9781982696191"
+ 			]
+ 		},
+ 		{
+ 			"label": "Arlo Finch in the Valley of Fire",
+ 			"isbns": [
+ 				"9781538460764",
+ 				"9781626728141",
+     "9781250294258"
+ 			]
+ 		},
+ 		{
+ 			"label": "The Best at It",
+ 			"isbns": [
+ 				"9780062866417",
+ 				"9781094024967"
+ 			]
+ 		},
+ 		{
+ 			"label": "Deep Water",
+ 			"isbns": [
+ 				"9780374306540"
+ 			]
+ 		},
+ 		{
+ 			"label": "Genesis Begins Again",
+ 			"isbns": [
+ 				"9781481465809"
+ 			]
+ 		},
+ 		{
+ 			"label": "A Good Kind of Trouble",
+ 			"isbns": [
+ 				"9780062836687",
+ 				"9781982641573",
+ 				"9781432881535"
+ 			]
+ 		},
+ 		{
+ 			"label": "Patron Saints of Nothing",
+ 			"isbns": [
+ 				"9781984814722",
+ 				"9780525554912",
+ 				"9781984886033",
+ 				"9781432873639"
+ 			]
+ 		},
+ 		{
+ 			"label": "It’s Trevor Noah: Born a Crime (Young Reader’s Edition)",
+ 			"isbns": [
+ 				"9780525582175"
+ 			]
+ 		},
+ 		{
+ 			"label": "My Year in the Middle",
+ 			"isbns": [
+ 				"9780763692315"
+ 			]
+ 		},
+ 		{
+ 			"label": "Nowhere Boy",
+ 			"isbns": [
+ 				"9781250307576"
+ 			]
+ 		},
+ 		{
+ 			"label": "The Remarkable Journey of Coyote Sunrise",
+ 			"isbns": [
+ 				"9781250196705",
+ 				"9781250236685",
+ 				"9781432882532"
+ 			]
+ 		},
+ 		{
+ 			"label": "Steelheart",
+ 			"isbns": [
+ 				"9780385743570"
+ 			]
+ 		},
+ 		{
+ 			"label": "The Storm Runner",
+ 			"isbns": [
+ 				"9781368016346",
+ 				"9780525587552"
+ 			]
+ 		},
+ 		{
+ 			"label": "To Night Owl from Dogfish",
+ 			"isbns": [
+ 				"9780763692315",
+ 				"9781984838353",
+ 				"9781987157031"
+ 			]
+ 		},
+ 		{
+ 			"label": "When Stars Are Scattered",
+ 			"isbns": [
+ 				"9780525553915"
+ 			]
+ 		}
+ 	]
+ }
