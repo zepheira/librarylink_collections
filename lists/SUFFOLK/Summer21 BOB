@@ -1,0 +1,57 @@
+{
+	"label": "LiveBrary Summer 2021 Battle of the Books",
+	"description": "Oregon's Battle of the Books 2021: 6th-8th Grade Division.",
+	"list": [{
+			"label": "Insignificant Events in the Life of a Cactus",
+			"isbns": [
+				"9781454932994",
+				"9781454923459",
+				"9781454923466"
+			]
+		},
+		{
+			"label": "Marcus Vega Doesn't Speak Spanish",
+			"isbns": [
+				"9781101997284",
+				"9781101997260",
+				"9781947196391",
+				"9781101997277",
+				"9780525625582"
+			]
+		},
+		{
+			"label": "Poached",
+			"isbns": [
+				"9781442467781",
+				"9781442467774",
+				"9781480689626",
+				"9781442467798",
+				"9781442369115",
+				"9781442369139"
+			]
+		},
+		{
+			"label": "Slider",
+			"isbns": [
+				"9781536204322",
+				"9780763690700"
+			]
+		},
+		{
+			"label": "The Apprentice Witch",
+			"isbns": [
+				"9781338118605",
+				"9781338118582",
+				"9781338241617",
+				"9781338159721"
+			]
+		},
+		{
+			"label": "The Collectors",
+			"isbns": [
+				"9780062691705",
+				"9780062691699"
+			]
+		}
+	]
+}
