@@ -1,10 +1,10 @@
 {
-	"label": "LiveBrary Summer 2021 Battle of the Books",
-	"description": "Oregon's Battle of the Books 2021: 6th-8th Grade Division.",
+	"label": "LiveBraryBattle of the Books",
+	"description": "LiveBrary Summer 2021 Battle of the Books",
 	"list": [{
 			"label": "Insignificant Events in the Life of a Cactus",
 			"isbns": [
-				"9781454932994",
+				"9781454932994", 
 				"9781454923459",
 				"9781454923466"
 			]
