@@ -1,0 +1,41 @@
+{
+	"label": "LiveBrary - Battle of the Books",
+	"description": "LiveBrary Summer 2021 Battle of the Books - Print Only ",
+	"list": [{
+			"label": "Insignificant Events in the Life of a Cactus",
+			"isbns": [
+				"9781454932994"
+			]
+		},
+		{
+			"label": "Marcus Vega Doesn't Speak Spanish",
+			"isbns": [
+				"9781101997284"				
+			]
+		},
+		{
+			"label": "Poached",
+			"isbns": [
+				"9781442467781"
+			]
+		},
+		{
+			"label": "Slider",
+			"isbns": [
+				"9781536204322"
+			]
+		},
+		{
+			"label": "The Apprentice Witch",
+			"isbns": [
+				"9781338118605"
+			]
+		},
+		{
+			"label": "The Collectors",
+			"isbns": [
+				"9780062691705"
+			]
+		}
+	]
+}
