@@ -1,8 +1,7 @@
 {
 	"label": "Battle of the Books Oregon 2021 (Grade School)",
 	"description": "Oregon's Battle of the Books 2021: 3rd-5th Grade Division.",
-	"list": [
-		{
+	"list": [{
 			"label": "Astrid the Unstoppable",
 			"isbns": [
 				"9781536200171",
@@ -15,7 +14,7 @@
 		{
 			"label": "The Bookwanderers",
 			"isbns": [
-				"9781984837127 ",
+				"9781984837127",
 				"9781984837141",
 				"9780593106624",
 				"9780593106600",
@@ -81,15 +80,14 @@
 			"label": "Lety Out Loud",
 			"isbns": [
 				"9781338159356",
-				"9781338159349",
 				"9781338159363",
-				"9781338593488"
+				"9781338593488",
+				"9781338159349"
 			]
 		},
 		{
 			"label": "Lowriders in Space",
 			"isbns": [
-				"9781480668126",
 				"9781452121550",
 				"9781452128696",
 				"9781452143149",
