@@ -1,0 +1,117 @@
+{
+	"label": "Juneteenth 2021 - Hamilton East Public Library",
+	"description": "A collection of titles to promote Juneteenth, 2021",
+	"list": [{
+			"label": "All Different Now: Juneteenth, the First Day of Freedom",
+			"isbns": [
+				"9780689873768"
+			]
+		},
+		{
+			"label": "Juneteenth for Mazie",
+			"isbns": [
+				"9781623701703",
+				"9781623704827",
+				"9781662070082",
+				"9781662091582"
+			]
+		},
+		{
+			"label": "The Story of Juneteenth: An Interactive History Adventure",
+			"isbns": [
+				"9781491418024",
+				"9781491418048"
+			]
+		},
+		{
+			"label": "Freedom Over Me: Eleven Slaves, Their Lives and Dreams Brought to Life",
+			"isbns": [
+				"9781481456906",
+				"9781501956799"
+			]
+		},
+		{
+			"label": "Dave the Potter: Artist, Poet, Slave",
+			"isbns": [
+				"9780316107310"
+			]
+		},
+		{
+			"label": "Escape From Slavery: Five Journeys to Freedom",
+			"isbns": [
+				"9780316167581"
+			]
+		},
+		{
+			"label": "Stamped (For Kids) : Racism, Antiracism, and You",
+			"isbns": [
+				"9781481456906",
+				"9781501956799"
+			]
+		},
+		{
+			"label": "Sulwe",
+			"isbns": [
+				"9781534425361",
+				"9781534425378"
+			]
+		},
+		{
+			"label": "Brown Girl Dreaming",
+			"isbns": [
+				"9780399252518",
+				"9781101926413",
+				"9780698195707"
+			]
+		},
+		{
+			"label": "Stamped: Racism, Antiracism, and You",
+			"isbns": [
+				"9780316453691",
+				"9781549184482",
+				"9780316453677",
+				"9781549130724"
+			]
+		},
+		{
+			"label": "The Half Has Never Been Told: Slavery and the Making of American Capitalism",
+			"isbns": [
+				"9780465002962",
+				"9780465044702",
+				"9781982421236",
+				"9781541698413",
+				"9781483030647"
+			]
+		},
+		{
+			"label": "Sweet Taste of Liberty: A True Story of Slavery and Restitution in America",
+			"isbns": [
+				"9780190846992",
+				"9781541441330"
+			]
+		},
+		{
+			"label": "Stamped from the Beginning: The Definitive History of Racist Ideas in America",
+			"isbns": [
+				"9781568584638",
+				"9781518940927",
+				"9781568588063"
+			]
+		},
+		{
+			"label": "Stony the Road",
+			"isbns": [
+				"9780525559535"
+			]
+		},
+		{
+			"label": "The Water Dancer",
+			"isbns": [
+				"9780593168196",
+				"9780399590597",
+				"9780525494843",
+				"9780399590603"
+			]
+		}
+	]
+}
