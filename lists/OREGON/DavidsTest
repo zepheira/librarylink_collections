@@ -1,0 +1,24 @@
+{
+	"label": "Davids test list",
+	"description": "Some Ken Follett Titles.",
+	"list": [{
+			"label": "The evening and the morning",
+			"isbns": [
+				"9780525954989",
+				"9780593289631",
+				"9781432883485",
+				"9781984882028",
+				"9780593289655"
+			]
+		},
+		{
+			"label": "The Pillars of the Earth",
+			"isbns": [
+				"9780553552119",
+				"9780451225245",
+				"9780143142379",
+				"9781101442197"
+			]
+		}
+	]
+}
