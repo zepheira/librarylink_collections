@@ -1,0 +1,148 @@
+{
+ "label": "Classic Vegan Cookbooks: Delicious food without dairy and meat",
+ "description": "Looking to learn more vegan recipies? Check out our favorite vegan cookbooks.",
+ "list": [
+ 	{
+       "label": "Decolonize Your Diet",
+       "isbns": [
+        "9781551525921",
+        "9781551525938"
+       ]
+     },
+	{
+      "label": "The Korean Vegan Cookbook",
+      "isbns": [
+        "9780593084281",
+        "9780593084274",
+		"9780593084281",
+		"9780593608111"
+      ]
+    },
+    {
+      "label": "La Vida Verde",
+      "isbns": [
+        "9781624149733",
+        "9781624149726",
+		"9781974809868"
+      ]
+    },
+    {
+      "label": "Mississippi Vegan",
+      "isbns": [
+        "9780735218147",
+        "9780735218154"
+      ]
+    },
+    {
+      "label": "The Vegan ABCs Cookbook",
+      "isbns": [
+        "9781645672661",
+        "9781645672654"
+      ]
+    },
+    {
+      "label": "The Jewish Food Hero Cookbook",
+      "isbns": [
+        "9781684425594",
+        "9781684422340",
+        "9781684422357",
+        "9781684422364"
+      ]
+    },
+    {
+      "label": "The Homemade Vegan Pantry",
+      "isbns": [
+        "9781607746775",
+        "9781607746782"
+      ]
+    },
+    {
+      "label": "The Make Ahead Vegan Cookbook",
+      "isbns": [
+        "9781581573046",
+        "9781581575941"
+      ]
+    },
+    {
+      "label": "Hot for Food Vegan Comfort Classics",
+      "isbns": [
+        "9780399580147",
+        "9780399580154",
+        "9780735234048",
+        "9780735234055",
+        "9781473560291",
+        "9781785039386",
+        "9781974801800"
+      ]
+    },
+    {
+      "label": "Crossroads",
+      "isbns": [
+        "9781579656362",
+        "9781579656782"
+      ]
+    },
+    {
+      "label": "Afro-Vegan",
+      "isbns": [
+        "9781607745310",
+        "9781607745327",
+        "9781306545501"
+      ]
+    },
+    {
+      "label": "Vegan Cuisine",
+      "isbns": [
+        "9783832733766"
+      ]
+    },
+    {
+      "label": "Provecho: 100 Vegan Mexican Recipes to Celebrate Culture and Community",
+      "isbns": [
+        "9781984859112",
+        "9781984859129"
+      ]
+    },
+    {
+      "label": "Sweet Potato Soul",
+      "isbns": [
+        "9780451498892",
+        "9780451498908",
+        "9781974802050"
+      ]
+    },
+    {
+      "label": "Vegetable Kingdom",
+      "isbns": [
+        "9780399581052",
+        "9780399581045"
+      ]
+    },
+    {
+      "label": "To Asia With Love",
+      "isbns": [
+        "9781760787677",
+        "9781760983406",
+        "9783791386836"
+      ]
+    },
+    {
+      "label": "East: 120 Easy and Delicious Asian-inspired Vegetarian and Vegan recipes",
+      "isbns": [
+        "9780241387566",
+        "9780241387580",
+        "9781250750730",
+        "9781250750747"
+      ]
+    },
+    {
+      "label": "One: Pot, Pan, Planet",
+      "isbns": [
+        "9780593320334",
+        "9780593320327",
+        "9780008172480",
+        "9780008194215"
+      ]
+    }
+  ]
+}
