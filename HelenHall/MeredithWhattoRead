@@ -1,9 +1,13 @@
 {
 	"label": "Meredith What to read next ",
-	"description": " testing ",
+	"description": " Meredith's to read pile ",
 	"rank": true,
 	"isbns": [
-		"9781607066019",
-		"9781534308374"
+		"9780393635089",
+		"9781538746837",
+		"9781984880963",
+		"9780451493507",
+		"9780307700667",
+		"9780743202961"	
 	]
 }
