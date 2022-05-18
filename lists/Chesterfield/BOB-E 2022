@@ -1,0 +1,132 @@
+{
+	"label": "Battle of the Books Chesterfield County, VA (Elementary School)",
+	"description": "CCPS Battle of the Books 2022-2023 for elementary schools",
+	"list": [{
+			"label": "Dog Driven",
+			"isbns": [
+				"9781328551597"
+			]
+		},
+		{
+			"label": "Paper Son: The Inspiring Story of Tyrus Wong, Immigrant and Artist",
+			"isbns": [
+				"9781524771874"
+			]
+		},
+		{
+			"label": "All the Way to the Top: How One Girl’s Fight for Americans with Disabilities Changed Everything",
+			"isbns": [
+				"9781492688976"
+
+			]
+		},
+		{
+			"label": "Willodeen",
+			"isbns": [
+				"9781250147400"
+			]
+		},
+		{
+			"label": "Dragons in a Bag",
+			"isbns": [
+				"9781524770457"
+			]
+		},
+		{
+			"label": "I Survived the Attacks of September 11, 2001: A Graphic Novel",
+			"isbns": [
+				"9781338680492"
+			]
+		},
+		{
+			"label": "Allergic",
+			"isbns": [
+				"9781338568912"
+			]
+		},
+		{
+			"label": "The Parker Inheritance",
+			"isbns": [
+				"9780545946179"
+			]
+		},
+		{
+			"label": "Refugee",
+			"isbns": [
+				"9780545880831"
+			]
+		},
+		{
+			"label": "Spirit Hunters",
+			"isbns": [
+				"9780062430083"
+			]
+		},
+		{
+			"label": "The Best of Iggy",
+			"isbns": [
+				"9781984813305"
+			]
+		},
+		{
+			"label": "The Fairy-Tale Detectives",
+			"isbns": [
+				"9781419720055"
+			]
+		},
+		{
+			"label": "Turning Pages: My Life Story",
+			"isbns": [
+				"9780525514084"
+			]
+		},
+		{
+			"label": "Finding Winnie: The True Story of The World’s Most Famous Bear",
+			"isbns": [
+				"9780316324908"
+			]
+		},
+		{
+			"label": "Saving Winslow",
+			"isbns": [
+				"9780062570703"
+			]
+		},
+		{
+			"label": "Ancestor Approved",
+			"isbns": [
+				"9780062869944"
+			]
+		},
+		{
+			"label": "The Best of Iggy",
+			"isbns": [
+				"9781984813305"
+			]
+		},
+		{
+			"label": "The Bridge Home",
+			"isbns": [
+				"9781524738112"
+			]
+		},
+		{
+			"label": "The Last Human",
+			"isbns": [
+				"9781419736919"
+			]
+		},
+		{
+			"label": "Becoming Muhammad Ali",
+			"isbns": [
+				"9780316498166"
+			]
+		},
+		{
+			"label": "When Stars Are Scattered",
+			"isbns": [
+				"9780525553915"
+			]
+		}
+	]
+}
