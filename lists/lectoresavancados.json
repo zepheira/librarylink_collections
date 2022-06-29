@@ -1,0 +1,89 @@
+{
+  "label": "Libros para Lectores Avancados / Books for Advanced Readers in Spanish",
+  "description": "Encuentra aquí libros en Español para Lectores Intermedios / Check out these great reads for Advanced Readers in Spanish",
+  "list": [
+    {
+      "label": "El misterio de la casa chueca : y el bulto color mugre",
+      "isbns": [
+        "9789702009948"
+      ]
+    },
+    {
+      "label": "El círculo negro",
+      "isbns": [
+        "9788408102281"
+      ]
+    },
+    {
+      "label": "Al Capone me lava la ropa",
+      "isbns": [
+        "9781603961783",
+        "9781631139550"
+      ]
+    },
+    {
+      "label": "El arte del fútbol",
+      "isbns": [
+        "9788496252899"
+      ]
+    },
+    {
+      "label": "Por el mar de las Antillas anda un barco de papel : poemas para niños mayores de edad",
+      "isbns": [
+        "9789583002809"
+      ]
+    },
+    {
+      "label": "Cajas de cartón : relatos de la vida peregrina de un niño campesino",
+      "isbns": [
+        "9780618226160",
+        "9780618226153"
+      ]
+    },
+    {
+      "label": "Salvar la tierra : ecología para todos",
+      "isbns": [
+        "9788496609556"
+      ]
+    },
+       {
+      "label": "La lección de August (Wonder)",
+      "isbns": [
+        "9780804171120",
+        "9780525562993"
+      ]
+    },
+        {
+      "label": "Misterioso asesinato en Oz",
+      "isbns": [
+        "9788444140940"
+      ]
+    },
+        {
+      "label": "Harry Potter y las reliquias de la muerte",
+      "isbns": [
+        "9788498381467",
+        "9788498381450"
+      ]
+    },
+        {
+      "label": "¡Pesadillas vivas!",
+      "isbns": [
+        "9786074630008"
+      ]
+    },
+        {
+      "label": "La telaraña de Carlota",
+      "isbns": [
+        "9780060757397",
+        "9780060757403"
+      ]
+    },
+        {
+      "label": "Mora. El Gran Chisme",
+      "isbns": [
+        "9786074637250"
+      ]
+    }
+  ]
+}

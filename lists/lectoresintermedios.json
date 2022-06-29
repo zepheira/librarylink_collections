@@ -1,0 +1,110 @@
+{
+  "label": "Libros para Lectores Intermedios / Books for Middle Readers in Spanish",
+  "description": "Encuentra aquí libros en Español para Lectores Intermedios / Check out these great reads for Middle Readers in Spanish",
+  "list": [
+    {
+      "label": "Me llamo María Isabel",
+      "isbns": [
+        "9780689319631"
+      ]
+    },
+    {
+      "label": "Lero, lero, candelero : rimas, canciones y adivinanzas para niños",
+      "isbns": [
+        "9788444146317"
+      ]
+    },
+    {
+      "label": "Darth Paper contraataca : un libro de Yoda Origami",
+      "isbns": [
+        "9789876127165"
+      ]
+    },
+    {
+      "label": "Miguel Vicente pata caliente",
+      "isbns": [
+        "9789802571024"
+      ]
+    },
+    {
+      "label": "El rabo de Paco",
+      "isbns": [
+        "9786071606563"
+      ]
+    },
+    {
+      "label": "Chico Rey",
+      "isbns": [
+        "9789702008309"
+      ]
+    },
+    {
+      "label": "César : sí, se puede!",
+      "isbns": [
+        "9780761452836",
+        "9781477816080"
+      ]
+    },
+       {
+      "label": "Misteria pavoria : cuentos de terror",
+      "isbns": [
+        "9789583015632"
+      ]
+    },
+        {
+      "label": "Caracoles!",
+      "isbns": [
+        "9786074638653"
+      ]
+    },
+        {
+      "label": "Amuleto. Libro primero, La guardiana de la joya",
+      "isbns": [
+        "9780545085755"
+      ]
+    },
+        {
+      "label": "Gabriel García Márquez : Gabito",
+      "isbns": [
+        "9781933032856"
+      ]
+    },
+        {
+      "label": "Óscar y el dragón hambriento",
+      "isbns": [
+        "9788426368614"
+      ]
+    },
+        {
+      "label": "Los zapaticos de rosa",
+      "isbns": [
+        "9781880507339"
+      ]
+    },
+        {
+      "label": "Los exploradores de huesos",
+      "isbns": [
+        "9786074002652"
+      ]
+    },
+        {
+      "label": "Blanca flor : una princess Maya",
+      "isbns": [
+        "9780888996008"
+      ]
+    },
+            {
+      "label": "Con los ojos cerrados : sueños de los niños indígenas",
+      "isbns": [
+        "9786074610703",
+        "9786074610697"
+      ]
+    },
+        {
+      "label": "María de los dinosaurios",
+      "isbns": [
+        "9789580442776"
+      ]
+    }
+  ]
+}

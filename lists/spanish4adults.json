@@ -1,0 +1,160 @@
+{
+	"label": "Libros para Lectores Avancados / Books for Advanced Readers in Spanish",
+	"description": "Encuentra aquí libros en Español para Lectores Intermedios / Check out these great reads for Advanced Readers in Spanish - Contribution of DC Public Library",
+	"list": [{
+			"label": "El juego de Ripper",
+			"isbns": [
+				"9780804171656",
+				"9781101910535"
+			]
+		},
+		{
+			"label": "Los de abajo : novela de la revolución mexicana",
+			"isbns": [
+				"9789681603205"
+			]
+		},
+		{
+			"label": "La invención de Morel / Adolfo Bioy Casares",
+			"isbns": [
+				"9780140260847"
+			]
+		},
+		{
+			"label": "2666",
+			"isbns": [
+				"9780307475954"
+			]
+		},
+		{
+			"label": "La casa en Mango Street",
+			"isbns": [
+				"9780679755265",
+				"9780613046886"
+			]
+		},
+			{
+			"label": "Adulterio / Paulo Coelho",
+			"isbns": [
+				"9781101872222",
+				"9781101872239"
+			]
+		},
+		{
+			"label": "Rayuela",
+			"isbns": [
+				"9788466319058",
+				"9786071126559"
+			]
+		},
+		{
+			"label": "Así es como la pierdes / Junot Díaz",
+			"isbns": [
+				"9780345805249"
+			]
+		},
+		{
+			"label": "El tiempo entre costuras",
+			"isbns": [
+				"9786070704086",
+				"9781451649857"
+			]
+		},
+		{
+			"label": "Como agua para chocolate",
+			"isbns": [
+				"9780385721233",
+				"9789684061408"
+			]
+		},
+		{
+			"label": "El mundo de afuera",
+			"isbns": [
+				"9781622639403"
+			]
+		},
+		{
+			"label": "La Muerte de Artemio Cruz",
+			"isbns": [
+				"9780140255829"
+			]
+		},
+		{
+			"label": "Necropolis / Santiago Gamboa",
+			"isbns": [
+				"9781609450731"
+			]
+		},
+		{
+			"label": "Soñar en cubano",
+			"isbns": [
+				"9780345391391",
+				"9789684132849"
+			]
+		},
+		{
+			"label": "El otoño del patriarca",
+			"isbns": [
+				"9788401301551",
+				"9788401814044"
+			]
+		},
+		{
+			"label": "Arráncame la vida",
+			"isbns": [
+				"9780375701993",
+				"9789703707560",
+				"9788420424354"
+			]
+		},
+		{
+			"label": "La ridícula idea de no volver a verte",
+			"isbns": [
+				"9788432215483",
+				"9786070716157"
+			]
+		},
+		{
+			"label": "La fugitiva",
+			"isbns": [
+				"9788420407104",
+				"9786071109385"
+			]
+		},
+		{
+			"label": "La sombra del viento",
+			"isbns": [
+				"9788408057932",
+				"9780307472595"
+			]
+		},
+		{
+			"label": "El secreto de sus ojos",
+			"isbns": [
+				"9786071105905",
+				"9781941999608"
+			]
+		},
+		{
+			"label": "El héroe discreto",
+			"isbns": [
+				"9781622631193"
+			]
+		},
+		{
+			"label": "El ruido de las cosas al caer",
+			"isbns": [
+				"9786073137515",
+				"9781616056117"
+			]
+		},
+		{
+			"label": "La tejedora de sombras",
+			"isbns": [
+				"9788408110781",
+				"9786070710742",
+				"9781681650128"
+			]
+		}
+	]
+}
