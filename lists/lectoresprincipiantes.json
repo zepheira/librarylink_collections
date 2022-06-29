@@ -1,0 +1,124 @@
+{
+  "label": "Libros para Lectores Principiantes / Books for Early Readers in Spanish",
+  "description": "Encuentra aquí libros en Español para Lectores Principiantes / Check out these great reads for Early Readers in Spanish",
+  "list": [
+    {
+      "label": "Las huellas secretas",
+      "isbns": [
+        "9780440417644",
+        "9780385908573"
+      ]
+    },
+    {
+      "label": "Conejo y sombrero",
+      "isbns": [
+        "9788493913830"
+      ]
+    },
+    {
+      "label": "El Zipitio",
+      "isbns": [
+        "9780888995391"
+      ]
+    },
+    {
+      "label": "El bosque",
+      "isbns": [
+        "9788426138644"
+      ]
+    },
+    {
+      "label": "Los siete mejores cuentos mexicanos",
+      "isbns": [
+        "9789580484950"
+      ]
+    },
+    {
+      "label": "Qué leen los animales antes de dormir",
+      "isbns": [
+        "9788426138446"
+      ]
+    },
+    {
+      "label": "La cucarachita Martina : adaptación de un cuento popular",
+      "isbns": [
+        "9781933032368",
+        "9781933032658"
+      ]
+    },
+       {
+      "label": "Vamos a la fiesta",
+      "isbns": [
+        "9788426391629"
+      ]
+    },
+        {
+      "label": "Cuando sea mayor quiero ser...",
+      "isbns": [
+        "9788426141033"
+      ]
+    },
+        {
+      "label": "Duerme, niño, duerme",
+      "isbns": [
+        "9788494171680"
+      ]
+    },
+        {
+      "label": "Cuenta animales",
+      "isbns": [
+        "9788426139115"
+      ]
+    },
+        {
+      "label": "Óscar y el dragón hambriento",
+      "isbns": [
+        "9788426140821"
+      ]
+    },
+        {
+      "label": "La noche que se cayó la luna : mito Maya",
+      "isbns": [
+        "9780888993991",
+        "9780888999634"
+      ]
+    },
+        {
+      "label": "ABeCeCirco",
+      "isbns": [
+        "9788467861457"
+      ]
+    },
+        {
+      "label": "Donde viven los monstruos",
+      "isbns": [
+        "9780064434225"
+      ]
+    },
+        {
+      "label": "Ricitos de oso : una historia",
+      "isbns": [
+        "9788426140883"
+      ]
+    },
+        {
+      "label": "A dormir, monstruos! / Ed Vere",
+      "isbns": [
+        "9788426138903"
+      ]
+    },
+        {
+      "label": "Las tijeras de Matisse",
+      "isbns": [
+        "9788426140333"
+      ]
+    },
+        {
+      "label": "Frida",
+      "isbns": [
+        "9780439331180",
+        "9780439373081"
+      ]
+    }
+  ]
+}
