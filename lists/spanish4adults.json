@@ -2,7 +2,7 @@
 	"label": "Libros para Lectores Avancados / Books for Advanced Readers in Spanish",
 	"description": "Encuentra aquí libros en Español para Lectores Intermedios / Check out these great reads for Advanced Readers in Spanish - Contribution of DC Public Library",
 	"list": [{
-			"label": "El juego de Ripper ",
+			"label": "El juego de Ripper",
 			"isbns": [
 				"9780804171656",
 				"9781101910535"
@@ -15,7 +15,7 @@
 			]
 		},
 		{
-			"label": "La invención de Morel / Adolfo Bioy Casares ",
+			"label": "La invención de Morel / Adolfo Bioy Casares",
 			"isbns": [
 				"9780140260847"
 			]
@@ -129,7 +129,7 @@
 			]
 		},
 		{
-			"label": "El secreto de sus ojos ",
+			"label": "El secreto de sus ojos",
 			"isbns": [
 				"9786071105905",
 				"9781941999608"
