@@ -1,513 +1,143 @@
 {
- "label": "Asian Studies Books Recommended by GOBI (Basic Essential)",
- "description": "GOBI Library Solutions provides academic print books, e-books and collection development services to scholarly libraries and consortia worldwide",
- "list": [
-    {
-      "label": "Gods Of Medieval Japan; V. 3: Rage And Ravage",
-      "isbns": [
-        "9780820000000",
-        "9780820000000",
-        "9780820000000"
-      ]
-    },
-    {
-      "label": "Buddhist Historiography In China",
-      "isbns": [
-        "9780230000000",
-        "9780230000000"
-      ]
-    },
-    {
-      "label": "Craft Culture In Early Modern Japan: Materials, Makers, And Mastery",
-      "isbns": [
-        "9780520000000",
-        "9780520000000"
-      ]
-    },
-    {
-      "label": "Central Asia: Contexts For Understanding; Ed. By David W. Montgomery",
-      "isbns": [
-        "9780820000000",
-        "9780820000000"
-      ]
-    },
-    {
-      "label": "Longing And Other Stories; Trans. By Anthony W. Chambers",
-      "isbns": [
-        "9780230000000",
-        "9780230000000",
-		"9780230000000"
-      ]
-    },
-    {
-      "label": "China In The World: Culture, Politics, And World  Vision",
-      "isbns": [
-        "9781480000000",
-        "9781480000000",
-		"9781480000000"
-      ]
-    },
-    {
-      "label": "Garden Of Eloquence, Shuoyuan; Trans. By Eric Henry",
-      "isbns": [
-        "9780300000000",
-        "9780300000000"
-      ]
-    },
-    {
-      "label": "Repossessing Shanland: Myanmar, Thailand, And A Nation-State Deferred",
-      "isbns": [
-        "9780300000000"
-      ]
-    },
-    {
-      "label": "Disunion: Anticommunist Nationalism And The Making Of The Republic Of Vietnam",
-      "isbns": [
-        "9780820000000",
-        "9780820000000"
-      ]
-    },
-    {
-      "label": "Carbon Technocracy: Energy Regimes In Modern East Asia",
-      "isbns": [
-        "9780230000000",
-        "9780230000000"
-      ]
-    },
-    {
-      "label": "Gaze Back: Poems",
-      "isbns": [
-        "9780820000000",
-        "9780820000000"
-      ]
-    },
-    {
-      "label": "Karma And Punishment: Prison Chaplaincy In Japan",
-      "isbns": [
-        "9780670000000"
-      ]
-    },
-    {
-      "label": "Menace To Empire: Anticolonial Solidarities And The Transpacific Origins Of The Us Security State",
-      "isbns": [
-        "9780520000000",
-		"9780520000000"
-      ]
-    },
-    {
-      "label": "Tribe And State In Asia Through Twenty-Five Centuries",
-      "isbns": [
-        "9780920000000"
-      ]
-    },
-    {
-      "label": "Coconut Colonialism: Workers And The Globalization Of Samoa",
-      "isbns": [
-        "9780670000000"
-      ]
-    },
-    {
-      "label": "Selected Poems; Trans. By Robert Dorsett",
-      "isbns": [
-        "9780590000000",
-		"9780590000000"
-      ]
-    },
-    {
-      "label": "Ledger: Accounting For Failure In Afghanistan",
-      "isbns": [
-        "9781790000000",
-		"9781790000000"
-      ]
-    },
-    {
-      "label": "Gwangju Uprising: The Rebellion For Democracy In South Korea; Trans. By Slin Jung",
-      "isbns": [
-        "9781790000000",
-		"9781790000000"
-      ]
-    },
-    {
-      "label": "Vortex: A True Story Of History'S Deadliest Storm, An Unspeakable War, And Liberation",
-      "isbns": [
-        "9780060000000"
-      ]
-    },
-    {
-      "label": "Prisoner: A Memoir",
-      "isbns": [
-        "9781840000000",
-		"9781840000000"
-      ]
-    },
-    {
-	  "label": "Votive Pen: Writings On Edwin Thumboo",
-      "isbns": [
-        "9789810000000"
-      ]
-    },
-    {
-	  "label": "Made In China: A Prisoner, An Sos Letter, And The Hidden Cost Of America'S Cheap Goods",
-      "isbns": [
-        "9781640000000",
-		"9781620000000",
-		"9781640000000"
-      ]
-    },
-    {
-	  "label": "Placating The Demons: Ritual Practices Among Sri Lankans",
-      "isbns": [
-        "9780370000000",
-		"9781000000000",
-		"9781000000000",
-		"9780370000000",
-		"9781000000000"
-      ]
-    },
-    {
-	  "label": "Em; Trans. By Sheila Fischman",
-      "isbns": [
-        "9781640000000",
-		"9781640000000"
-      ]
-    },
-    {
-	  "label": "Zen Master Tales: Stories From The Lives Of Taigu, Sengai, Hakuin, And Ryokan",
-      "isbns": [
-        "9780830000000",
-		"9781610000000"
-      ]
-    },
-    {
-	  "label": "Rosewood: Endangered Species Conservation And The Rise Of Global China",
-      "isbns": [
-        "9780670000000",
-		"9780670000000"
-      ]
-    },
-    {
-	  "label": "20Th Century Indian Art: Modern, Post-Independence, Contemporary; Ed. By Partha",
-      "isbns": [
-        "9780500000000"
-      ]
-    },
-    {
-	  "label": "Sukita: Eternity",
-      "isbns": [
-        "9781790000000"
-      ]
-    },
-    {
-	  "label": "Red Carpet: Hollywood, China, And The Global Battle For Cultural Supremacy",
-      "isbns": [
-        "9781980000000",
-		"9781980000000"
-      ]
-    },
-    {
-	  "label": "City On The Edge: Hong Kong Under Chinese Rule",
-      "isbns": [
-        "9781110000000",
-		"9781110000000"
-      ]
-    },
-    {
-	  "label": "India Before Modi: How The Bjp Came To Power",
-      "isbns": [
-        "9781790000000"
-      ]
-    },
-    {
-	  "label": "Xi Jinping: Political Career, Governance, And Leadership, 1953-2018",
-      "isbns": [
-        "9780200000000"
-      ]
-    },
-    {
-	  "label": "Xi Jinping: Political Career, Governance, And Leadership, 1953-2018",
-      "isbns": [
-        "9780200000000",
-		"9780200000000"
-      ]
-    },
-    {
-	  "label": "Afghanistan: A Military History From The Ancient  Empires To The Great Game",
-      "isbns": [
-        "9780700000000",
-		"9780700000000"
-      ]
-    },
-    {
-	  "label": "Road To Dien Bien Phu: A History Of The First War For Vietnam",
-      "isbns": [
-        "9780690000000",
-		"9780690000000"
-      ]
-    },
-    {
-	  "label": "Subplot: What China Is Reading And Why It Matters",
-      "isbns": [
-        "9781740000000",
-		"9781740000000"
-      ]
-    },
-    {
-	  "label": "Leaping The Dragon Gate: The Sir Michael Butler Collection Of Seventeenth-Century Chinese",
-      "isbns": [
-        "9781910000000"
-      ]
-    },
-    {
-	  "label": "Breakthrough 2.0: Singaporeans Push For Parliamentary Democracy",
-      "isbns": [
-        "9789810000000",
-		"9789810000000",
-		"9789810000000"
-      ]
-    },
-    {
-	  "label": "City That Is Leaving Forever: Kashmiri Letters",
-      "isbns": [
-        "9781770000000"
-      ]
-    },
-    {
-	  "label": "Secret Listener: An Ingenue In Mao'S Court",
-      "isbns": [
-        "9780200000000",
-		"9780200000000",
-		"9780200000000",
-		"9780200000000"
-      ]
-    },
-    {
-	  "label": "Home In The World: A Memoir",
-      "isbns": [
-        "9781320000000"
-      ]
-    },
-    {
-	  "label": "Healing With Poisons: Potent Medicines In Medieval China",
-      "isbns": [
-        "9780300000000",
-		"9780300000000"
-      ]
-    },
-    {
-	  "label": "Between Ape And Human: An Anthropologist On The Trail Of A Hidden Hominoid",
-      "isbns": [
-        "9781640000000",
-		"9781640000000"
-      ]
-    },
-    {
-	  "label": "1000 Years Of Joys And Sorrows: A Memoir; Trans. By Allan H. Barr",
-      "isbns": [
-        "9780550000000",
-		"9780550000000"
-      ]
-    },
-    {
-	  "label": "Taming Of The Demons: From The Epic Of Gesar Of Ling; Trans. By Jane Hawes",
-      "isbns": [
-        "9781610000000",
-		"9780830000000"
-      ]
-    },
-    {
-	  "label": "We Uyghurs Have No Say: An Imprisoned Writer Speaks; Trans. By Yaxue Cao",
-      "isbns": [
-        "9781840000000",
-		"9781840000000"
-      ]
-    },
-    {
-	  "label": "Immersive Enclosure: Virtual Reality In Japan",
-      "isbns": [
-        "9780230000000",
-		"9780230000000"
-      ]
-    },
-    {
-	  "label": "Comics And The Origins Of Manga: A Revisionist History",
-      "isbns": [
-        "9781980000000",
-		"9781980000000",
-        "9781980000000",
-		"9781980000000"
-      ]
-    },
-    {
-	  "label": "Kingdom Of Characters: The Language Revolution That Made China Modern",
-      "isbns": [
-        "9780740000000",
-		"9780740000000"
-      ]
-    },
-    {
-	  "label": "Art & Trousers: Tradition And Modernity In Contemporary Asian Art",
-      "isbns": [
-        "9780990000000"
-      ]
-    },
-    {
-	  "label": "Akira Kurosawa And Modern Japan",
-      "isbns": [
-        "9781480000000"
-      ]
-    },
-    {
-	  "label": "In Asian Waters: Oceanic Worlds From Yemen To Yokohama",
-      "isbns": [
-        "9780690000000",
-		"9780690000000"
-      ]
-    },
-    {
-	  "label": "China'S Leaders: From Mao To Now",
-      "isbns": [
-        "9781510000000"
-      ]
-    },
-    {
-	  "label": "Avoidable War: The Dangers Of A Catastrophic Conflict Between The Us And Xi Jinping'S China",
-      "isbns": [
-        "9781540000000",
-		"9781540000000"
-      ]
-    },
-    {
-	  "label": "Biotic Borders: Transpacific Plant And Insect Migration And The Rise Of Anti-Asian Racism In",
-      "isbns": [
-        "9780230000000",
-		"9780230000000",
-		"9780230000000"
-      ]
-    },
-    {
-	  "label": "Vessel: A Memoir; Trans. By Dylan Levi King",
-      "isbns": [
-        "9780060000000"
-      ]
-    },
-    {
-	  "label": "Tampitaviharas Of Sri Lanka: Elevated Image-Houses In Buddhist Architecture",
-      "isbns": [
-        "9781790000000"
-      ]
-    },
-    {
-	  "label": "Chinese Question: The Gold Rushes And Global Politics",
-      "isbns": [
-        "9780390000000"
-      ]
-    },
-    {
-	  "label": "Sisters In The Mirror: A History Of Muslim Women And The Global Politics Of Feminism",
-      "isbns": [
-        "9780520000000",
-		"9780520000000"
-      ]
-    },
-    {
-	  "label": "Run And Hide",
-      "isbns": [
-        "9780370000000"
-      ]
-    },
-    {
-	  "label": "Tumultuous Times: Central Banking In An Era Of Crisis",
-      "isbns": [
-        "9780300000000",
-		"9780300000000"
-      ]
-    },
-    {
-	  "label": "Tumultuous Times: Central Banking In An Era Of Crisis",
-      "isbns": [
-        "9780370000000"
-      ]
-    },
-    {
-	  "label": "Aura Of Confucius: Relics And Representations Of  The Sage At The Kongzhai Shring In Shanghai",
-      "isbns": [
-        "9781010000000",
-		"9781320000000",
-		"9781010000000"
-      ]
-    },
-    {
-	  "label": "Backstreets: A Novel From Xinjiang; Trans. By Darren Byler",
-      "isbns": [
-        "9780230000000",
-		"9780230000000"
-      ]
-    },
-    {
-	  "label": "Local Traditional Knowledge In Its Urban Context: A Case Study Of Bai Ethnic Minority In Dali",
-      "isbns": [
-        "9781530000000",
-		"9781530000000"
-      ]
-    },
-    {
-	  "label": "Worlds Unbound: The Art Of Teamlab",
-      "isbns": [
-        "9781790000000",
-		"9781790000000"
-      ]
-    },
-    {
-	  "label": "Essential Desires: Contemporary Art In Thailand",
-      "isbns": [
-        "9781790000000"
-      ]
-    },
-    {
-	  "label": "Spirituality As A Way: The Wisdom Of Japan; Ed. By Naoki Kashio",
-      "isbns": [
-        "9781930000000",
-		"9781930000000",
-		"9781930000000"
-      ]
-    },
-    {
-	  "label": "Deposition | Dispossession: Climate Change In The Sundarbans",
-      "isbns": [
-        "9780930000000"
-      ]
-    },
-    {
-	  "label": "1368: China And The Making Of The Modern World",
-      "isbns": [
-        "9781500000000",
-		"9781500000000"
-      ]
-    },
-    {
-	  "label": "Hokusai: The Great Picture Book Of Everything",
-      "isbns": [
-        "9780710000000"
-      ]
-    },
-    {
-	  "label": "Dharma In Dna: Insights At The Intersection Of Biology And Buddhism",
-      "isbns": [
-        "9780200000000",
-		"9780200000000"
-      ]
-    },
-    {
-	  "label": "Tokyo: Art & Photography; Ed. By Lena Fritsch",
-      "isbns": [
-        "9781910000000"
-      ]
-    },
-    {
-	  "label": "Beasts Of A Little Land: A Novel",
-      "isbns": [
-        "9780060000000"
-      ]
-    }
+  "label": "Asian Studies Books Recommended by GOBI (Basic Essential)",
+  "description": "GOBI Library Solutions provides academic print books, e-books and collection development services to scholarly libraries and consortia worldwide",
+  "isbns": [
+    "9780824889364",
+    "9780824889388",
+    "9780824886240",
+    "9780231205627",
+    "9780231205634",
+    "9780520379817",
+    "9780520382497",
+    "9780822946786",
+    "9780822988274",
+    "9780231554411",
+    "9780231202145",
+    "9780231202152",
+    "9781478010845",
+    "9781478009801",
+    "9781478012368",
+    "9780295995199",
+    "9780295806334",
+    "9780299333003",
+    "9780824887865",
+    "9780824891633",
+    "9780226721996",
+    "9780226812601",
+    "9780820362410",
+    "9780820362427",
+    "9780674260153",
+    "9780520387768",
+    "9780520267480",
+    "9780924304958",
+    "9780674270299",
+    "9780674263338",
+    "9780593240731",
+    "9780593240724",
+    "9781787386952",
+    "9781787387546",
+    "9781788737142",
+    "9781788737159",
+    "9780062985415",
+    "9781839760853",
+    "9781839760839",
+    "9789814882132",
+    "9781643752068",
+    "9781616209179",
+    "9781643751139",
+    "9780367519247",
+    "9781000457186",
+    "9781000457179",
+    "9780367556181",
+    "9781003094326",
+    "9781644211168",
+    "9781644211151",
+    "9780834844339",
+    "9781611809602",
+    "9780674260276",
+    "9780674276413",
+    "9780500023327",
+    "9781788841078",
+    "9781984878991",
+    "9781984879004",
+    "9781108885690",
+    "9781108840330",
+    "9781787385375",
+    "9780197615256",
+    "9780197615232",
+    "9780197615225",
+    "9780700632640",
+    "9780700632633",
+    "9780691180168",
+    "9780691228655",
+    "9781735913674",
+    "9781735913667",
+    "9781912168163",
+    "9789811227288",
+    "9789811229312",
+    "9789811227271",
+    "9781772013573",
+    "9780197573372",
+    "9780197573341",
+    "9780197573365",
+    "9780197573358",
+    "9781324091615",
+    "9780295748993",
+    "9780295749006",
+    "9781639361434",
+    "9781639361441",
+    "9780553419474",
+    "9780553419467",
+    "9781611808964",
+    "9780834843745",
+    "9781839764042",
+    "9781839764066",
+    "9780231205351",
+    "9780231205344",
+    "9781978827257",
+    "9781978827226",
+    "9781978827769",
+    "9781978827233",
+    "9780735214729",
+    "9780735214743",
+    "9780989688536",
+    "9781476686745",
+    "9780691146829",
+    "9780691235646",
+    "9781509546510",
+    "9781541701298",
+    "9781541701304",
+    "9780226817293",
+    "9780226817309",
+    "9780226817330",
+    "9780063038004",
+    "9781785277498",
+    "9780393634167",
+    "9780520974647",
+    "9780520342514",
+    "9780374607524",
+    "9780300263008",
+    "9780300258974",
+    "9781009034463",
+    "9781316516324",
+    "9781009029681",
+    "9780231202909",
+    "9780231202916",
+    "9781527568716",
+    "9781527571075",
+    "9781789384512",
+    "9781789384499",
+    "9781789142938",
+    "9781925608083",
+    "9781925608069",
+    "9781925608076",
+    "9780932716910",
+    "9781503631519",
+    "9781503627475",
+    "9780714124896",
+    "9781910807392",
+    "9780197604595",
+    "9780197604588",
+    "9780063093577"
   ]
 }
