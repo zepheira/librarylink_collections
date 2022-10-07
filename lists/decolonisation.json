@@ -1,348 +1,1658 @@
 {
- "label": "Decolonisation: Get Informed",
- "description": "Books about Decolonisation recommended by the University of East Anglia Library",
- "list": [
-  	{
- 	   "label": "Asian perspectives in counselling and psychotherapy",
-        "isbns": [
-         "9780203697085",
-         "9780415233002",
-         "9780415233019",
-         "9781134570461",
-         "9781134570478",
-         "9781134570423",
-         "9781134570447",
-         "9786610155934",
-		 "9781280155932"
-        ]
-    },
-  	{
- 	   "label": "Intersections of privilege and otherness in counselling and psychotherapy mockingbird",
-        "isbns": [
-         "9781000340396",
-         "9781000340358",
-		 "9780367426774",
-		 "9780367426828",
-		 "9780367854423",
-		 "9781000340372"
-        ]
-    },
-  	{
- 	   "label": "Fanon, phenomenology and psychology",
-        "isbns": [
-         "9781000458763",
-         "9780367471484",
-         "9780367478766",
-         "9781000458503",
-         "9781003037132"
-        ]
-    },
-  	{
- 	   "label": "Our African unconscious the Black origins of mysticism and psychology",
-        "isbns": [
-         "9781644115206",
-         "9781644113967",
-		 "9781644113974"
-        ]
-    },
-  	{
- 	   "label": "Frantz Fanon and emancipatory social theory a view from the wretched",
-        "isbns": [
-         "9789004409200",
-         "9781642593532",
-		 "9789004400597"
-        ]
-    },
-  	{
- 	   "label": "Psychoanalysis under occupation",
-        "isbns": [
-         "9780429947261",
-         "9780429947278",
-         "9781032078694",
-         "9781138596207",
-         "9780429487880",
-         "9780429947254"
-        ]
-    },
-  	{
- 	   "label": "Black identities + white therapies : race, respect + diversity",
-        "isbns": [
-         "9781910919897",
-         "9781910919903"
-        ]
-    },
-  	{
- 	   "label": "The Work of Whiteness A Psychoanalytic Perspective",
-        "isbns": [
-         "9781000389203",
-         "9781000389258",
-         "9780367218355",
-         "9780367218362",
-         "9780429266447"
-        ]
-    },
-  	{
- 	   "label": "Racism in psychology challenging theory, practice and institutions",
-        "isbns": [
-         "9780367635022",
-         "9780367635039",
-         "9781000382228",
-         "9781000382181",
-         "9781003119401"
-        ]
-    },
-  	{
- 	   "label": "Decolonial feminist community psychology",
-        "isbns": [
-         "9783030200008",
-         "9783030200015",
-		 "9783030200039"
-        ]
-    },
-  	{
- 	   "label": "Decolonial love : salvation in colonial modernity",
-        "isbns": [
-         "9780823281893",
-         "9780823281879",
-		 "9780823281886",
-		 "9780823281909",
-		 "9780823286003"
-        ]
-    },
-  	{
- 	   "label": "Indigenous Psychologies in an Era of Decolonization",
-        "isbns": [
-         "9783030048211",
-         "9783030048228",
-		 "9783030048235"
-        ]
-    },
-  	{
- 	   "label": "Ruthless Winnicott : the role of ruthlessness in psychoanalysis and political protest",
-        "isbns": [
-         "9780429791543",
-         "9780429791550",
-         "9780429791536",
-         "9781138345485",
-         "9781138348486",
-         "9780429436635"
-        ]
-    },
-  	{
- 	   "label": "Decolonial psychoanalysis : towards critical Islamophobia studies",
-        "isbns": [
-         "9780429615269",
-         "9780429616471",
-		 "9780367173494",
-		 "9780367174132",
-		 "9780429056611",
-		 "9780429614057"
-        ]
-    },
-  	{
- 	   "label": "I've Got Your Back, Arteaga",
-        "isbns": [
-         "9781419762161",
-         "9781647006839"
-        ]
-    },
-  	{
- 	   "label": "Beyond the master's tools?: decolonizing knowledge orders, research methods and teaching",
-        "isbns": [
-         "9781786613585",
-         "9781786613592",
-		 "9781786613608"
-        ]
-    },
-  	{
- 	   "label": "Constitution making in Asia: decolonisation and state-building in the aftermath of the British Empire",
-        "isbns": [
-         "9781317245094",
-         "9781317245100",
-         "9780367111472",
-         "9780415734585",
-         "9780415734585",
-         "9781317245087"
-        ]
-    },
-  	{
- 	   "label": "Crossroads in new media, identity, and law: the shape of diversity to come",
-        "isbns": [
-         "9781349504442",
-         "9781137491251",
-         "9781137491268",
-         "9781137491275"
-        ]
-    },
-  	{
- 	   "label": "Cultural Diversity in International Law: the Effectiveness of the UNESCO Convention on the Protection and Promotion of the Diversity of Cultural Expressions",
-        "isbns": [
-         "9780203795842",
-         "9780415869874",
-         "9781134454884",
-         "9781138670471",
-         "9781134454815",
-         "9781134454952",
-		 "9781306707688"
-        ]
-    },
-  	{
- 	   "label": "Decolonisation of Legal Knowledge",
-        "isbns": [
-         "9780415544603",
-         "9781136517723",
-		 "9781136517730",
-		 "9781136517709",
-		 "9780203151556",
-		 "9780367176464",
-		 "9781136517686",
-		 "9786613637727",
-		 "9781136517679",
-		 "9781280660795"
-        ]
-    },
-  	{
- 	   "label": "International Status in the Shadow of Empire",
-        "isbns": [
-         "9781108498500",
-         "9781108597937",
-         "9781108724104",
-         "9781108682602",
-         "9781108579988"
-        ]
-    },
-  	{
- 	   "label": "Legal Pluralism in Conflict: Coping with Cultural Diversity in Law",
-        "isbns": [
-         "9781135308780",
-         "9781135308797",
-         "9781904385585",
-         "9781135308742",
-         "9781138002180",
-         "9781843147909"
-        ]
-    },
-  	{
- 	   "label": "The International Court of Justice and Decolonisation: New Directions from the Chagos Advisory Opinion",
-        "isbns": [
-         "9781108841276",
-         "9781108893770",
-         "9781108810203",
-         "9781108897082",
-         "9781108896894"
-        ]
-    },
-  	{
- 	   "label": "Power Relations in Black Lives : Reading African American Literature and Culture with Bourdieu and Elias",
-        "isbns": [
-         "9783837636604",
-         "9783839436608"
-        ]
-    },
-  	{
- 	   "label": "Transnational Black Dialogues : Re-Imagining Slavery in the Twenty-First Century",
-        "isbns": [
-         "9783837636666",
-         "9783839436660"
-        ]
-    },
-  	{
- 	   "label": "Disciplinary Spaces : Spatial Control, Forced Assimilation and Narratives of Progress since the 19th Century",
-        "isbns": [
-         "9783837634877",
-         "9783839434871"
-        ]
-    },
-  	{
- 	   "label": "Color, Race, and English Language Teaching Shades of Meaning",
-        "isbns": [
-         "9781134814947",
-         "9781134815012",
-         "9780203763971",
-         "9780805856606",
-         "9781134815081",
-         "9780805856590"
-        ]
-    },
-  	{
- 	   "label": "Dangerous Women: Gender and Korean Nationalism",
-        "isbns": [
-         "9780203379424",
-         "9781136047985",
-         "9781136048067",
-         "9780415915069",
-         "9781136048142",
-         "9781283843881",
-         "9788987519555"
-        ]
-    },
-  	{
- 	   "label": "Fresh Banana Leaves: Healing Indigenous Landscapes through Indigenous Science",
-        "isbns": [
-         "9781623177928",
-         "9781623177935",
-         "9781623176051",
-         "9781623176068"
-        ]
-    },
-  	{
- 	   "label": "Learning Whiteness: Education and the Settler Colonial State",
-        "isbns": [
-         "9780745342146",
-         "9780745342153",
-		 "9781786808615",
-		 "9781786808622"
-        ]
-    },
-  	{
- 	   "label": "Black Age: Oceanic Lifespans the the Time of Black Life",
-        "isbns": [
-         "9781479810888",
-         "9781479810895",
-		 "9781479810925",
-		 "9781479810932"
-        ]
-    },
-  	{
- 	   "label": "The Routledge handbook of archaeology and globalization",
-        "isbns": [
-         "9781315448985",
-         "9781315448992",
-		 "9780367147471",
-		 "9780415841306",
-		 "9781315448978",
-		 "9781315449005"
-        ]
-    },
-  	{
- 	   "label": "The Dance of the Deep-Blue Scorpion",
-        "isbns": [
-         "9780857428936"
-        ]
-    },
-  	{
- 	   "label": "Legacy of Violence: A History of the British Empire",
-        "isbns": [
-         "9780593454206",
-         "9780593454213",
-		 "9781529191486",
-		 "9780307272423",
-		 "9780593320082",
-		 "9781847921062",
-		 "9781039549425",
-		 "9781409029076"
-        ]
-    },
-  	{
- 	   "label": "Nakba: Palestine, 1948, and the Claims of Memory",
-        "isbns": [
-         "9780231135795",
-         "9780231509701",
-		 "9781280598159",
-		 "9781429480819",
-		 "9786613627988",
-		 "9780231135788"
-        ]
-    }
-  ]
+	"label": "Decolonisation: Get Informed",
+	"description": "Books about decolonisation recommended by the University of East Anglia Library",
+	"list": [
+		{
+			"label": "Anti-Racism in Higher Education [electronic resource] : An Action Guide for Change. Verma, Arun.",
+			"isbns": [
+				"9781447364740"
+			]
+		},
+		{
+			"label": "Nakba : Palestine, 1948, and the Claims of Memory. Sa'di, Ahmad H.",
+			"isbns": [
+				"9780231509701"
+			]
+		},
+		{
+			"label": "Legacy of violence : a history of the British empire / Caroline Elkins.",
+			"isbns": [
+				"9780307272423"
+			]
+		},
+		{
+			"label": "The dance of the deep-blue scorpion / Akram Musallam ; translated by Sawad Hussain.",
+			"isbns": [
+				"9780857428936"
+			]
+		},
+		{
+			"label": "The Routledge handbook of archaeology and globalization / edited by Tamar Hodos.",
+			"isbns": [
+				"9781315448985",
+				"9781315448992",
+				"9781315448978",
+				"9781315449005"
+			]
+		},
+		{
+			"label": "Black age : oceanic lifespans and the time of Black life / Habiba Ibrahim.",
+			"isbns": [
+				"9781479810932",
+				"9781479810925"
+			]
+		},
+		{
+			"label": "Learning whiteness : education and the settler colonial state / Arathi Sriprakash, Sophie Rudolph, Jessica Gerrard.",
+			"isbns": [
+				"9781786808615",
+				"1786808617"
+			]
+		},
+		{
+			"label": "Fresh Banana Leaves [electronic resource] : Healing Indigenous Landscapes Through Indigenous Science. Hernandez, Jessica.",
+			"isbns": [
+				"9781623176068"
+			]
+		},
+		{
+			"label": "Dangerous women : gender and Korean nationalism / edited by Elaine H. Kim and Chungmoo Choi.",
+			"isbns": [
+				"9780203379424",
+				"9781136047985",
+				"9781136048142",
+				"9781136048067",
+				"9780415915052",
+				"9780415915069"
+			]
+		},
+		{
+			"label": "Color, race, and English language teaching : shades of meaning / edited by Andy Curtis, Mary Romney.",
+			"isbns": [
+				"9781134815012",
+				"9780203763971",
+				"9781134814947",
+				"9781134815081"
+			]
+		},
+		{
+			"label": "Disciplinary Spaces : Spatial Control, Forced Assimilation and Narratives of Progress since the 19th Century / Sophie Wagenhofer, Andrea Fischer-Tahir.",
+			"isbns": [
+				"9783839434871",
+				"9783837634877"
+			]
+		},
+		{
+			"label": "Transnational Black Dialogues : Re-Imagining Slavery in the Twenty-First Century. Nehl, Markus.",
+			"isbns": [
+				"9783839436660",
+				"9783837636666"
+			]
+		},
+		{
+			"label": "Postcolonial Studies Meets Media Studies : A Critical Encounter",
+			"isbns": [
+				"9783837632941",
+				"9783839432945"
+			]
+		},
+		{
+			"label": "Power Relations in Black Lives : Reading African American Literature and Culture with Bourdieu and Elias. Buschendorf, Christa.",
+			"isbns": [
+				"9783839436608"
+			]
+		},
+		{
+			"label": "The International Court of Justice and Decolonisation [electronic resource] : New Directions from the Chagos Advisory Opinion. Burri, Thomas.",
+			"isbns": [
+				"9781108897082"
+			]
+		},
+		{
+			"label": "Legal Pluralism in Conflict : Coping with Cultural Diversity in Law. Shah, Prakash.",
+			"isbns": [
+				"9781135308797"
+			]
+		},
+		{
+			"label": "International status in the shadow of empire : Nauru and the histories of international law / Cait Storr.",
+			"isbns": [
+				"9781108682602"
+			]
+		},
+		{
+			"label": "Decolonisation of Legal Knowledge. Dhanda, Amita.",
+			"isbns": [
+				"9780203151556"
+			]
+		},
+		{
+			"label": "Cultural Diversity in International Law : the Effectiveness of the UNESCO Convention on the Protection and Promotion of the Diversity of Cultural Expressions. Richieri Hanania, Lilian.",
+			"isbns": [
+				"9781134454815",
+				"9780203795842"
+			]
+		},
+		{
+			"label": "Crossroads in new media, identity, and law : the shape of diversity to come / edited by Wouter de Been, Payal Arora, Mireille Hildebrandt.",
+			"isbns": [
+				"9781137491268"
+			]
+		},
+		{
+			"label": "Constitution making in Asia : decolonisation and state-building in the aftermath of the British Empire / edited by H. Kumarasingham.",
+			"isbns": [
+				"9781317245100",
+				"9781317245094",
+				"9781317245087"
+			]
+		},
+		{
+			"label": "Beyond the master's tools? : decolonizing knowledge orders, research methods and teaching / edited by Daniel Bendix, Franziska Müller and Aram Ziai.",
+			"isbns": [
+				"9781786613608"
+			]
+		},
+		{
+			"label": "I've got your back [electronic resource] : the indispensable guide to stopping harassment when you see it / Jorge Arteaga & Emily May of Right To Be ; illustrated by Lucila Perini.",
+			"isbns": [
+				"9781647006839"
+			]
+		},
+		{
+			"label": "Decolonial psychoanalysis : towards critical Islamophobia studies / Robert Beshara.",
+			"isbns": [
+				"9780429056611",
+				"9780429615269",
+				"9780429616471",
+				"9780429614057"
+			]
+		},
+		{
+			"label": "Ruthless Winnicott : the role of ruthlessness in psychoanalysis and political protest / Sally Swartz.",
+			"isbns": [
+				"9780429791550",
+				"9780429791543",
+				"9780429436635"
+			]
+		},
+		{
+			"label": "Indigenous psychologies in an era of decolonization / editor, Nuria Ciofalo.",
+			"isbns": [
+				"9783030048228",
+				"9783030048235"
+			]
+		},
+		{
+			"label": "Decolonial Love : Salvation in Colonial Modernity. Drexler-Dreis, Joseph.",
+			"isbns": [
+				"9780823281909",
+				"9780823281893"
+			]
+		},
+		{
+			"label": "Decolonial feminist community psychology / editors, Floretta Boonzaier and Taryn van Niekerk.",
+			"isbns": [
+				"9783030200015",
+				"9783030200008"
+			]
+		},
+		{
+			"label": "Racism in Psychology [electronic resource] : Challenging Theory, Practice and Institutions. Newnes, Craig.",
+			"isbns": [
+				"9781000382228"
+			]
+		},
+		{
+			"label": "The Work of Whiteness [electronic resource] : A Psychoanalytic Perspective. Morgan, Helen.",
+			"isbns": [
+				"9781000389258"
+			]
+		},
+		{
+			"label": "Black Identities and White Therapies [electronic resource] : Race, Respect and Diversity. Charura, Divine.",
+			"isbns": [
+				"9781910919903"
+			]
+		},
+		{
+			"label": "Psychoanalysis under Occupation [electronic resource] : Practicing Resistance in Palestine. Sheehi, Lara.",
+			"isbns": [
+				"9780429947261"
+			]
+		},
+		{
+			"label": "Frantz Fanon and Emancipatory Social Theory : a View from the Wretched. Byrd, Dustin J.",
+			"isbns": [
+				"9789004409200"
+			]
+		},
+		{
+			"label": "Our African unconscious : the Black origins of mysticism and psychology / Edward Bruce Bynum, Ph.D., ABPP.",
+			"isbns": [
+				"9781644113974"
+			]
+		},
+		{
+			"label": "Fanon, phenomenology, and psychology / edited by Leswin Laubscher, Derek Hook and Miraj U. Desai.",
+			"isbns": [
+				"9781003037132",
+				"9781000458763",
+				"9781000458503"
+			]
+		},
+		{
+			"label": "Intersections of Privilege and Otherness in Counselling and Psychotherapy [electronic resource] : Mockingbird. Turner, Dwight.",
+			"isbns": [
+				"9781000340396"
+			]
+		},
+		{
+			"label": "Asian perspectives in counselling and psychotherapy / Pittu Laungani.",
+			"isbns": [
+				"9780203697085"
+			]
+		},
+		{
+			"label": "Counselling in Cultural Contexts : Identities and Social Justice. Arthur, Nancy.",
+			"isbns": [
+				"9783030000905"
+			]
+		},
+		{
+			"label": "Decolonizing Global Mental Health : the psychiatrization of the majority world. Mills, China.",
+			"isbns": [
+				"9781135080433"
+			]
+		},
+		{
+			"label": "Supporting Trans People of Colour : How to Make Your Practice Inclusive / Sabah Choudrey.",
+			"isbns": [
+				"9781787750609"
+			]
+		},
+		{
+			"label": "African Psychology [electronic resource] : The Emergence of a Tradition. Nwoye, Augustine.",
+			"isbns": [
+				"9780190932503"
+			]
+		},
+		{
+			"label": "Racial Trauma in the School System [electronic resource] : Naming the Pain. Handford, Connesia.",
+			"isbns": [
+				"9780429639135"
+			]
+		},
+		{
+			"label": "Beyond White Mindfulness [electronic resource] : Critical Perspectives on Racism, Well-Being and Liberation. Fleming, Crystal M.",
+			"isbns": [
+				"9781000535648"
+			]
+		},
+		{
+			"label": "Narrative expansions : interpreting decolonisation in academic libraries / edited by Jess Crilly and Regina Everitt.",
+			"isbns": [
+				"9781783304981",
+				"9781783304974"
+			]
+		},
+		{
+			"label": "Narrative expansions : interpreting decolonisation in academic libraries / edited by Jess Crilly and Regina Everitt.",
+			"isbns": [
+				"9781783305216",
+				"9781783304998"
+			]
+		},
+		{
+			"label": "Life as a unicorn : a journey from shame to pride and everything in between / Amrou Al-Kadhi.",
+			"isbns": [
+				"9780008306106"
+			]
+		},
+		{
+			"label": "Anti-racist scholar-activism / Remi Joseph-Salisbury and Laura Connelly.",
+			"isbns": [
+				"9781526157966",
+				"9781526157959"
+			]
+		},
+		{
+			"label": "The reinvention of distinction : modernity and the middle class in urban Vietnam / Van Nguyen-Marshall, Lisa B. Welch Drummond, Danièle Bélanger, editors.",
+			"isbns": [
+				"9789400723061"
+			]
+		},
+		{
+			"label": "Ethical responsiveness and the politics of difference / Tanja Dreher, Anshuman A. Mondal, editors.",
+			"isbns": [
+				"9783319939582"
+			]
+		},
+		{
+			"label": "Ruptured histories : war, memory, and the post-Cold War in Asia / edited by Sheila Miyoshi Jager, Rana Mitter.",
+			"isbns": [
+				"9780674274037"
+			]
+		},
+		{
+			"label": "Memory maps : the state and Manchuria in postwar Japan / Mariko Asano Tamanoi.",
+			"isbns": [
+				"9781441620002",
+				"9780824863593",
+				"9780824870072"
+			]
+		},
+		{
+			"label": "Images of the 'modern woman' in Asia : global media, local meanings / edited by Shoma Munshi.",
+			"isbns": [
+				"9781136120589"
+			]
+		},
+		{
+			"label": "Spaces of their own : women's public sphere in transnational China / Mayfair Mei-hui Yang, editor.",
+			"isbns": [
+				"9780816631452",
+				"9780816631469"
+			]
+		},
+		{
+			"label": "Colonial legacies : contemporary lens-based art and the Democratic Republic of Congo / Gabriella Nugent.",
+			"isbns": [
+				"9789461664273"
+			]
+		},
+		{
+			"label": "The Korean popular culture reader / Kyung Hyun Kim and Youngmin Choe, editors.",
+			"isbns": [
+				"9780822377566",
+				"9781306454483"
+			]
+		},
+		{
+			"label": "Love in the big city / Sang Young Park ; translated by Anton Hur ; [edited by Peter Blackstock and Yvonne Cha].",
+			"isbns": [
+				"9781911284659"
+			]
+		},
+		{
+			"label": "CRYING IN H MART. ZAUNER, MICHELLE.",
+			"isbns": [
+				"9781529033786",
+				"9781529033779"
+			]
+		},
+		{
+			"label": "Shelter in a time of storm : how Black colleges fostered generations of leadership and activism / Jelani M. Favors.",
+			"isbns": [
+				"9781469648347",
+				"9781469648354"
+			]
+		},
+		{
+			"label": "Research genres across languages : multilingual communication online / Carmen Pérez-Llantada, University of Zaragoza.",
+			"isbns": [
+				"9781108870528"
+			]
+		},
+		{
+			"label": "Competition law in developing countries / Thomas K. Cheng.",
+			"isbns": [
+				"9780192607393",
+				"9780192607386"
+			]
+		},
+		{
+			"label": "Intercultural learning in language education and beyond : evolving concepts, perspectives and practices / edited by Troy McConachy, Irina Golubeva and Manuela Wagner.",
+			"isbns": [
+				"9781800412620",
+				"9781800412613"
+			]
+		},
+		{
+			"label": "International Perspectives on Diversity in ELT [electronic resource] / edited by Darío Luis Banegas, Griselda Beacon, Mercedes Pérez Berbain.",
+			"isbns": [
+				"9783030749811",
+				"3030749819"
+			]
+		},
+		{
+			"label": "The critique of coloniality : eight essays / Rita Segato ; translated by Ramsey McGlazer.",
+			"isbns": [
+				"9781003164999",
+				"9781000548877",
+				"9781000548914"
+			]
+		},
+		{
+			"label": "Holy Johnson, pioneer of African nationalism, 1836-1917 / by E.A. Ayandele.",
+			"isbns": [
+				"9781136251894",
+				"9780203042250",
+				"9781136251962",
+				"9781136252037"
+			]
+		},
+		{
+			"label": "Arts and culture in global development practice : expression, identity and empowerment / edited by Cindy Maguire and Ann Holt.",
+			"isbns": [
+				"9780367708375",
+				"9780367708382"
+			]
+		},
+		{
+			"label": "The Hispanic-Anglosphere from the eighteenth to the twentieth century : an introduction / edited by Graciela Iglesias-Rogers.",
+			"isbns": [
+				"9780429330636",
+				"9781000381924",
+				"9781000381887"
+			]
+		},
+		{
+			"label": "Mouth : eats color : Sagawa Chika translations, anti-translations & originals / by Sawako Nakayasu w/ Chika Sagawa.",
+			"isbns": [
+				"9780975446850"
+			]
+		},
+		{
+			"label": "The dark side of translation / edited Federico Italiano.",
+			"isbns": [
+				"9780429321528",
+				"9781000028263",
+				"9781000028287",
+				"9781000028249"
+			]
+		},
+		{
+			"label": "Recasting the Disney princess in an era of new media and social movements / edited by Shearon Roberts.",
+			"isbns": [
+				"9781793604026"
+			]
+		},
+		{
+			"label": "The pedagogy of queer TV / Ava Laure Parsemain.",
+			"isbns": [
+				"9783030148720"
+			]
+		},
+		{
+			"label": "Arise, Africa! Roar, China! : Black and Chinese citizens of the world in the twentieth century / Gao Yunxiang.",
+			"isbns": [
+				"9781469664620"
+			]
+		},
+		{
+			"label": "The Oxford handbook of Global South youth studies / edited by Sharlene Swartz, Adam Cooper, Clarence M. Batan, and Laura Kropff Causa.",
+			"isbns": [
+				"9780190930035",
+				"9780190930042",
+				"9780190930059"
+			]
+		},
+		{
+			"label": "The Oxford Handbook of Global South Youth Studies [electronic resource]. Swartz, Sharlene.",
+			"isbns": [
+				"9780190930059"
+			]
+		},
+		{
+			"label": "Learning activism : the intellectual life of contemporary social movements / Aziz Choudry.",
+			"isbns": [
+				"9781442607910",
+				"9781442607903"
+			]
+		},
+		{
+			"label": "COVID-19 and international development / Elissaios Papyrakis, editor.",
+			"isbns": [
+				"9783030823399"
+			]
+		},
+		{
+			"label": "The battle for international law : South-North perspectives on the decolonization era / edited by Jochen Von Bernstorff, Philipp Dann ; assistant editor, Max H. Mayer.",
+			"isbns": [
+				"9780192589484",
+				"9780191883927"
+			]
+		},
+		{
+			"label": "Media movements : civil society and media policy reform in Latin America / Mar?ia Soledad Segura and Silvio Waisbord.",
+			"isbns": [
+				"9781783604647"
+			]
+		},
+		{
+			"label": "The cultural trauma of decolonization : colonial returnees in the national imagination / Ron Eyerman, Giuseppe Sciortino, editors.",
+			"isbns": [
+				"9783030270254"
+			]
+		},
+		{
+			"label": "Palestinian collective memory and national identity / edited by Meir Litvak.",
+			"isbns": [
+				"9780230621633",
+				"9780230613065",
+				"9781282532458",
+				"9781349377558"
+			]
+		},
+		{
+			"label": "Women's economic empowerment : feminism, neoliberalism, and the state / Inna Michaeli.",
+			"isbns": [
+				"9783030892814"
+			]
+		},
+		{
+			"label": "Women's Economic Empowerment [electronic resource] : Feminism, Neoliberalism, and the State. Michaeli, Inna.",
+			"isbns": [
+				"9783030892814"
+			]
+		},
+		{
+			"label": "Your ad could go here / Oksana Zabuzhko ; edited by Nina Murray ; translated from the Ukranian by Halyna Hryn [and four others].",
+			"isbns": [
+				"9781542022521",
+				"9781542019422"
+			]
+		},
+		{
+			"label": "Fieldwork in Ukrainian sex / Oksana Zabuzhko ; translated by Halyna Hryn.",
+			"isbns": [
+				"9781611090086",
+				"9781439275801"
+			]
+		},
+		{
+			"label": "The museum of abandoned secrets / Oksana Zabuzhko ; translated by Nina Shevchuk-Murray.",
+			"isbns": [
+				"9781611090116"
+			]
+		},
+		{
+			"label": "Technology of the oppressed : inequity and the digital mundane in favelas of Brazil / David Nemer.",
+			"isbns": [
+				"9780262368636",
+				"9780262368629"
+			]
+		},
+		{
+			"label": "Antiheroines of contemporary media : saints, sinners, and survivors / edited by Melanie Haas, N.A. Pierce, and Gretchen Busl.",
+			"isbns": [
+				"9781793624574"
+			]
+		},
+		{
+			"label": "Antiheroines of Contemporary Media [electronic resource] : Saints, Sinners, and Survivors. Haas, Melanie.",
+			"isbns": [
+				"9781793624574"
+			]
+		},
+		{
+			"label": "The new female antihero  : the disruptive women of Twenty-First-Century US television / Sarah Hagelin and Gillian Silverman.",
+			"isbns": [
+				"9780226816364"
+			]
+		},
+		{
+			"label": "Contested Britain : Brexit, austerity and agency / edited by Marius Guderjan, Hugh Mackay and Gesa Stedman.",
+			"isbns": [
+				"9781529205015",
+				"9781529205039",
+				"9781529205053"
+			]
+		},
+		{
+			"label": "Gender, globalization, and violence : postcolonial conflict zones / edited by Sandra Ponzanesi.",
+			"isbns": [
+				"9781136655586"
+			]
+		},
+		{
+			"label": "The socially responsible feminist EFL classroom : a Japanese perspective on identities, beliefs and practices / Reiko Yoshihara.",
+			"isbns": [
+				"9781783098026",
+				"9781783098033",
+				"9781783098040"
+			]
+		},
+		{
+			"label": "Out of the sun : essays at the crossroads of race / Esi Edugyan.",
+			"isbns": [
+				"9781788169905"
+			]
+		},
+		{
+			"label": "Transnational convergence of East Asian pop culture / edited by Seok-Kyeong Hong and Dal Yong Jin.",
+			"isbns": [
+				"9781000351293",
+				"9781003126850",
+				"9781000351330",
+				"9781000351316"
+			]
+		},
+		{
+			"label": "Gender in Chinese music / edited by Rachel Harris, Rowan Pease, and Shzr Ee Tan.",
+			"isbns": [
+				"9781580464437",
+				"9781580465441"
+			]
+		},
+		{
+			"label": "Ecospectrality : Haunting and Environmental Justice in Contemporary Anglophone Novels",
+			"isbns": [
+				"9781350091566",
+				"9781350243248",
+				"9781350091573",
+				"9781350091580"
+			]
+		},
+		{
+			"label": "Dismantling race in higher education : racism, whiteness and decolonising the academy / Jason Arday, Heidi Safia Mirza, editors.",
+			"isbns": [
+				"9783319602615",
+				"9783319602608"
+			]
+		},
+		{
+			"label": "Decolonising the university / edited by Gurminder K. Bhambra, Dalia Gebrial and Kerem Nişancıoğlu.",
+			"isbns": [
+				"9781786803153",
+				"9781786803160",
+				"9781786803177",
+				"9780745338217"
+			]
+		},
+		{
+			"label": "The African novel of ideas : philosophy and individualism in the age of global writing / Jeanne-Marie Jackson.",
+			"isbns": [
+				"9780691186443",
+				"9780691186450"
+			]
+		},
+		{
+			"label": "This is the canon : decolonize your bookshelf in 50 books / Joan Anim-Addo, Deirdre Osborne, Kadija George Sesay.",
+			"isbns": [
+				"9781529414592"
+			]
+		},
+		{
+			"label": "The pedagogy of compassion at the heart of higher education / Paul Gibbs, editor.",
+			"isbns": [
+				"9783319577838"
+			]
+		},
+		{
+			"label": "The most important comic book on Earth : stories to save the world.",
+			"isbns": [
+				"9780241513514"
+			]
+		},
+		{
+			"label": "The teaching life : professional learning and career progression / Kate Jones and Robin Macpherson ; foreword by Dame Alison Peacock.",
+			"isbns": [
+				"9781913622893"
+			]
+		},
+		{
+			"label": "Deporting black Britons : portraits of deportation to Jamaica / Luke de Noronha.",
+			"isbns": [
+				"9781526143990"
+			]
+		},
+		{
+			"label": "Deporting Black Britons : portraits of deportation to Jamaica / Luke de Noronha.",
+			"isbns": [
+				"9781526144003",
+				"9781526155733"
+			]
+		},
+		{
+			"label": "Black resistance to British policing / Adam Elliott-Cooper.",
+			"isbns": [
+				"9781526143952",
+				"9781526143945"
+			]
+		},
+		{
+			"label": "Critical digital pedagogy : a collection / [edited by] Jesse Stommel, Chris Friend, and Sean Michael Morris.",
+			"isbns": [
+				"9780578725918"
+			]
+		},
+		{
+			"label": "Modern families : parents and children in new family forms / Susan Golombok.",
+			"isbns": [
+				"9781107055582",
+				"9781107650251",
+				"9781107295377"
+			]
+		},
+		{
+			"label": "Modern families : parents and children in new family forms / Susan Golombok.",
+			"isbns": [
+				"9781107295377"
+			]
+		},
+		{
+			"label": "Cold war reckonings : authoritarianism and the genres of decolonization / Jini Kim Watson.",
+			"isbns": [
+				"9780823294855"
+			]
+		},
+		{
+			"label": "Rethinking Africa : indigenous women reinterpret southern Africa's pasts / edited by Bernedette Muthien and June Bam.",
+			"isbns": [
+				"9781928232940"
+			]
+		},
+		{
+			"label": "Scheherazade goes west : different cultures, different harems / Fatema Mernissi.",
+			"isbns": [
+				"9780743412421",
+				"9780743412438"
+			]
+		},
+		{
+			"label": "The Resilience of the Latin American Right [electronic resource] / edited by Juan Pablo Luna & Cristobal Rovira Kaltwasser.",
+			"isbns": [
+				"9781421413914"
+			]
+		},
+		{
+			"label": "All about love : new visions / bell hooks.",
+			"isbns": [
+				"9780060959470"
+			]
+		},
+		{
+			"label": "Abolition. Feminism. Now. / Angela Y. Davis, Gina Dent, Erica R. Meiners, and Beth E. Richie.",
+			"isbns": [
+				"9781642593969",
+				"9781642592580"
+			]
+		},
+		{
+			"label": "The place of English as an international language in English language teaching : teacher's reflections / Ngan Le Hai Phan.",
+			"isbns": [
+				"9780429460180",
+				"9780429862946",
+				"9780429862953",
+				"9780429862939"
+			]
+		},
+		{
+			"label": "Catalan maps and Jewish books : the intellectual profile of Elisha Ben Abraham Cresq̧ues (1325-1387) / Katrin Kogman-Appel.",
+			"isbns": [
+				"9782503585482"
+			]
+		},
+		{
+			"label": "Stepping up lesson study : an educator's guide to deeper learning / edited by Aki Murata and Christine Kim-Eng Lee.",
+			"isbns": [
+				"9781003002536",
+				"9781000287813",
+				"9781000287837",
+				"9781000287851"
+			]
+		},
+		{
+			"label": "Written on the body : the tattoo in European and American history / edited by Jane Caplan.",
+			"isbns": [
+				"9780691238258"
+			]
+		},
+		{
+			"label": "Written on the body : the tattoo in European and American history / edited by Jane Caplan.",
+			"isbns": [
+				"9781861890627"
+			]
+		},
+		{
+			"label": "Writing across cultures : narrative transculturation in Latin America / Angel Rama ; edited and translated by David Frye.",
+			"isbns": [
+				"9780822395508",
+				"9781280677502",
+				"9786613654434"
+			]
+		},
+		{
+			"label": "Textured teaching : a framework for culturally sustaining practices / Lorena Escoto Germán.",
+			"isbns": [
+				"9780325120416"
+			]
+		},
+		{
+			"label": "The Scholar and the Struggle : Lawrence Reddick's Crusade for Black History and Black Power",
+			"isbns": [
+				"9781469660950",
+				"9781469660967",
+				"9781469660981"
+			]
+		},
+		{
+			"label": "The scholar and the struggle : Lawrence Reddick's crusade for black history and black power / David A. Varel.",
+			"isbns": [
+				"9781469660981",
+				"9781469660974"
+			]
+		},
+		{
+			"label": "Behold the land the black arts movement in the South / James Smethurst.",
+			"isbns": [
+				"9781469663067"
+			]
+		},
+		{
+			"label": "America on fire : the untold history of police violence and black rebellion since the 1960s / Elizabeth Hinton.",
+			"isbns": [
+				"9780008443832"
+			]
+		},
+		{
+			"label": "The 1921 Tulsa race massacre [electronic resource] : a photographic history / Karlos K. Hill ; foreword by Kevin Matthews.",
+			"isbns": [
+				"9780806168869"
+			]
+		},
+		{
+			"label": "The 1921 Tulsa Race Massacre : A Photographic History",
+			"isbns": [
+				"9780806168562",
+				"9780806168869"
+			]
+		},
+		{
+			"label": "Shelter in a Time of Storm : How Black Colleges Fostered Generations of Leadership and Activism",
+			"isbns": [
+				"9781469648330",
+				"9781469661445",
+				"9781469648354"
+			]
+		},
+		{
+			"label": "A black women's history of the United States / Daina Ramey Berry and Kali Nicole Gross.",
+			"isbns": [
+				"9780807033562"
+			]
+		},
+		{
+			"label": "Black Power on the Move : Migration, Internationalism, and the British and Israeli Black Panthers. Angelo, Anne-Marie.",
+			"isbns": [
+				"9781469655420",
+				"9781469655413"
+			]
+		},
+		{
+			"label": "Tobacco use by Native North Americans : sacred smoke and silent killer / edited by Joseph C. Winter.",
+			"isbns": [
+				"9780806132624"
+			]
+		},
+		{
+			"label": "The Age of Sustainability : Just Transitions in a Complex World",
+			"isbns": [
+				"9780367178154",
+				"9780367178161",
+				"9780429603723",
+				"9780429609244",
+				"9780429057823"
+			]
+		},
+		{
+			"label": "The Age of Sustainability : Just Transitions in a Complex World. Swilling, Mark.",
+			"isbns": [
+				"9780429609244",
+				"9780429603723"
+			]
+		},
+		{
+			"label": "The age of sustainability : just transitions in a complex world / Mark Swilling.",
+			"isbns": [
+				"9780429609244",
+				"9780429603723",
+				"9780429057823",
+				"9780367178154",
+				"9780367178161"
+			]
+		},
+		{
+			"label": "The Palgrave handbook of masculinity and sport / Rory Magrath, Jamie Cleland, Eric Anderson, editors.",
+			"isbns": [
+				"9783030197988",
+				"9783030198015"
+			]
+		},
+		{
+			"label": "The Palgrave handbook of masculinity and sport / Rory Magrath, Jamie Cleland, Eric Anderson, editors.",
+			"isbns": [
+				"9783030197995"
+			]
+		},
+		{
+			"label": "Patient and public involvement in health and social care research : an introduction to theory... and practice. Grotz, Jurgen",
+			"isbns": [
+				"9783030552916"
+			]
+		},
+		{
+			"label": "Patient and public involvement in health and social care research : an introduction to theory and practice / Jurgen Grotz, Mary Ledgard, Fiona Poland.",
+			"isbns": [
+				"9783030552893",
+				"9783030552886"
+			]
+		},
+		{
+			"label": "What's your pronoun : beyond he & she / Dennis Baron.",
+			"isbns": [
+				"9781631498718"
+			]
+		},
+		{
+			"label": "The dawn of everything : a new history of humanity / David Graeber and David Wengrow.",
+			"isbns": [
+				"9780241402429"
+			]
+		},
+		{
+			"label": "Chasing religion in the caribbean : ethnographic journeys from antigua to trinidad / Peter Marina.",
+			"isbns": [
+				"9781137561008",
+				"9781137560995"
+			]
+		},
+		{
+			"label": "Handbook of education policy studies : school/university, curriculum, and assessment. Volume 2 / Guorui Fan, Thomas S. Popkewitz, editors.",
+			"isbns": [
+				"9789811383434"
+			]
+		},
+		{
+			"label": "International handbook of teacher education. Volume 1 / John Loughran, Mary Lynn Hamilton, editors.",
+			"isbns": [
+				"9789811003660"
+			]
+		},
+		{
+			"label": "The Egyptian Labor Corps : race, space, and place in the First World War / Kyle J. Anderson.",
+			"isbns": [
+				"9781477324547"
+			]
+		},
+		{
+			"label": "Jews don't count : how identity politics failed one particular identity / David Baddiel.",
+			"isbns": [
+				"9780008399474"
+			]
+		},
+		{
+			"label": "ANTISEMITISM : here and now. LIPSTADT, DEBORAH E.",
+			"isbns": [
+				"9781925307580"
+			]
+		},
+		{
+			"label": "The Muslim problem : why we're wrong about Islam and why it matters / Tawseef Khan.",
+			"isbns": [
+				"9781786499523",
+				"9781786499516"
+			]
+		},
+		{
+			"label": "Antisemitism : what it is, what it isn't, why it matters / Julia Neuberger.",
+			"isbns": [
+				"9781474612401"
+			]
+		},
+		{
+			"label": "Amrita Sher-Gil : art & life : a reader / edited by Yashodhara Dalmia.",
+			"isbns": [
+				"9780198098867"
+			]
+		},
+		{
+			"label": "Decolonisation in Universities : The Politics of Knowledge",
+			"isbns": [
+				"9781776143368",
+				"9781776143375"
+			]
+		},
+		{
+			"label": "Moving the centre : the struggle for cultural freedoms / Ngũgĩ wa Thiongʼo.",
+			"isbns": [
+				"9780852555309",
+				"9780435080792"
+			]
+		},
+		{
+			"label": "Decolonizing research : indigenous storywork as methodology / edited by Jo-ann Archibald Q'um Q'um Xiiem, Jenny Bol Jun Lee-Morgan and Jason De Santolo ; with a foreword by Linda Tuhiwai Smith.",
+			"isbns": [
+				"9781786994608",
+				"9781786994615"
+			]
+		},
+		{
+			"label": "Black and British : a forgotten history / David Olusoga.",
+			"isbns": [
+				"9781447299769"
+			]
+		},
+		{
+			"label": "Black British feminism : a reader / edited by Heidi Safia Mirza.",
+			"isbns": [
+				"9780415152884",
+				"9780415152891"
+			]
+		},
+		{
+			"label": "Black Legacies : Race and the European Middle Ages",
+			"isbns": [
+				"9780813060071",
+				"9780813055046"
+			]
+		},
+		{
+			"label": "Black legacies : race and the European Middle Ages / Lynn T. Ramey.",
+			"isbns": [
+				"9780813055046",
+				"9780813050478"
+			]
+		},
+		{
+			"label": "Reimaging Britain : five hundred years of Black and Asian history / Ron Ramdin.",
+			"isbns": [
+				"9780745316000",
+				"9780745315997"
+			]
+		},
+		{
+			"label": "Reimaging Britain : five hundred years of Black and Asian history / Ron Ramdin.",
+			"isbns": [
+				"9780585426068",
+				"9781849645201"
+			]
+		},
+		{
+			"label": "The Sovereignty of Quiet : Beyond Resistance in Black Culture",
+			"isbns": [
+				"9780813553092",
+				"9780813553108",
+				"9780813553115",
+				"9780813582498"
+			]
+		},
+		{
+			"label": "The sovereignty of quiet : beyond resistance in black culture. Quashie, Kevin Everod.",
+			"isbns": [
+				"9780813553115",
+				"9780813553092",
+				"9781280691713",
+				"9786613668653"
+			]
+		},
+		{
+			"label": "Cultivation and catastrophe : the lyric ecology of modern Black literature / Sonya Posmentier.",
+			"isbns": [
+				"9781421422664"
+			]
+		},
+		{
+			"label": "London is the place for me : Black Britons, citizenship, and the politics of race / Kennetta Hammond Perry.",
+			"isbns": [
+				"9780190240202",
+				"9780190909949"
+			]
+		},
+		{
+			"label": "London is the place for me : Black Britons, citizenship, and the politics of race / Kennetta Hammond Perry.",
+			"isbns": [
+				"9780190240226",
+				"9780190240219"
+			]
+		},
+		{
+			"label": "The world's war / by David Olusoga.",
+			"isbns": [
+				"9781781858967"
+			]
+		},
+		{
+			"label": "Black feminism reimagined : after intersectionality / Jennifer C. Nash.",
+			"isbns": [
+				"9781478000594",
+				"9781478000433"
+			]
+		},
+		{
+			"label": "Black feminism reimagined : after intersectionality / Jennifer C. Nash.",
+			"isbns": [
+				"9781478002253"
+			]
+		},
+		{
+			"label": "The shadow and the act : black intellectual practice, jazz improvisation, and philosophical pragmatism / Walton M. Muyumba.",
+			"isbns": [
+				"9780226554259"
+			]
+		},
+		{
+			"label": "Black experience and the Empire / Philip D. Morgan, editor and Sean Hawkins, editor.",
+			"isbns": [
+				"9780199290673"
+			]
+		},
+		{
+			"label": "Black Experience and the Empire",
+			"isbns": [
+				"9780199260294",
+				"9780199290673",
+				"9781423768043",
+				"9780191555510"
+			]
+		},
+		{
+			"label": "Black experience and the empire / Philip D. Morgan, editor and Sean Hawkins, editor.",
+			"isbns": [
+				"9781423768043",
+				"9780199290673",
+				"9780191555510",
+				"9781280903137"
+			]
+		},
+		{
+			"label": "Black intersectionalities : a critique for 21st century / edited by Monica Michlin and Jean-Paul Rocchi.",
+			"isbns": [
+				"9781781380901",
+				"9781781385531"
+			]
+		},
+		{
+			"label": "Black Intersectionalities : A Critique for the 21st Century",
+			"isbns": [
+				"9781846319389",
+				"9781800348950",
+				"9781781385531"
+			]
+		},
+		{
+			"label": "Critique of Black reason / Achille Mbembe ; translated by Laurent Dubois.",
+			"isbns": [
+				"9780822373230"
+			]
+		},
+		{
+			"label": "Britain and Barbary, 1589-1689",
+			"isbns": [
+				"9780813028712",
+				"9780813037844"
+			]
+		},
+		{
+			"label": "Britain and Barbary, 1589-1689 / Nabil Matar.",
+			"isbns": [
+				"9780813037844"
+			]
+		},
+		{
+			"label": "Convergences : Black Feminism and Continental Philosophy",
+			"isbns": [
+				"9781438432670",
+				"9781438432663",
+				"9781438432687"
+			]
+		},
+		{
+			"label": "Convergences : Black feminism and Continental philosophy / edited by Maria del Guadalupe Davidson, Kathryn T. Gines, and Donna-Dale L. Marcano.",
+			"isbns": [
+				"9781441680266",
+				"9781438432687"
+			]
+		},
+		{
+			"label": "In the cause of freedom : radical Black internationalism from Harlem to London, 1917-1939 / Minkah Makalani.",
+			"isbns": [
+				"9780807835043",
+				"9780807869161"
+			]
+		},
+		{
+			"label": "In the Cause of Freedom : Radical Black Internationalism From Harlem to London, 1917-1939",
+			"isbns": [
+				"9780807835043",
+				"9781469617527",
+				"9781469602516"
+			]
+		},
+		{
+			"label": "In the cause of freedom : radical Black internationalism from Harlem to London, 1917-1939 / Minkah Makalani.",
+			"isbns": [
+				"9780807869161",
+				"9781469602516"
+			]
+		},
+		{
+			"label": "Black London : The Imperial Metropolis and Decolonization in the Twentieth Century",
+			"isbns": [
+				"9780520284296",
+				"9780520284302",
+				"9780520959903"
+			]
+		},
+		{
+			"label": "Black London : the imperial metropolis and decolonization in the twentieth century / Marc Matera.",
+			"isbns": [
+				"9780520959903"
+			]
+		},
+		{
+			"label": "The making of Black lives matter : a brief history of an idea / Christopher J. Lebron.",
+			"isbns": [
+				"9780190601348",
+				"9780190910754"
+			]
+		},
+		{
+			"label": "The making of Black lives matter : a brief history of an idea / Christopher J. Lebron.",
+			"isbns": [
+				"9780190601355",
+				"9780190601362"
+			]
+		},
+		{
+			"label": "The other special relationship : race, rights, and riots in Britain and the United States / edited by Robin D.G. Kelley and Stephen Tuck.",
+			"isbns": [
+				"9781137392695"
+			]
+		},
+		{
+			"label": "The Other Special Relationship : Race, Rights, and Riots in Britain and the United States",
+			"isbns": [
+				"9781137392695",
+				"9781137392701"
+			]
+		},
+		{
+			"label": "The other special relationship : race, rights, and riots in Britain and the United States / edited by Robin D.G. Kelley & Stephen Tuck.",
+			"isbns": [
+				"9781137392701"
+			]
+		},
+		{
+			"label": "Black Tudors : the untold story / Miranda Kaufmann",
+			"isbns": [
+				"9781786071859"
+			]
+		},
+		{
+			"label": "Ain't I a woman : black women and feminism / by Bell Hooks.",
+			"isbns": [
+				"9780861043798"
+			]
+		},
+		{
+			"label": "Ain't I a woman : Black women and feminism / bell hooks.",
+			"isbns": [
+				"9781317588610",
+				"9781315743264",
+				"9781322506302",
+				"9781317588603"
+			]
+		},
+		{
+			"label": "Beyond slavery and abolition : Black British writing, c.1770-1830 / Ryan Hanley.",
+			"isbns": [
+				"9781108571319",
+				"9781108616997"
+			]
+		},
+		{
+			"label": "Between camps : nations, culture and the allure of race / Paul Gilroy.",
+			"isbns": [
+				"9780415343657"
+			]
+		},
+		{
+			"label": "Between camps : nations, cultures and the allure of race / Paul Gilroy.",
+			"isbns": [
+				"9780203639580"
+			]
+		},
+		{
+			"label": "Staying Power : The History of Black People in Britain",
+			"isbns": [
+				"9780745338309",
+				"9780745338316",
+				"9781786803337",
+				"9781786803344"
+			]
+		},
+		{
+			"label": "Staying power : the history of black people in Britain / Peter Fryer ; foreword by Gary Younge ; introduction by Paul Gilroy.",
+			"isbns": [
+				"9781786803344",
+				"9781786803337"
+			]
+		},
+		{
+			"label": "The Age of Garvey : How a Jamaican Activist Created a Mass Movement and Changed Global Black Politics",
+			"isbns": [
+				"9780691157795",
+				"9780691173832",
+				"9781400852444"
+			]
+		},
+		{
+			"label": "The age of Garvey : how a Jamaican activist created a mass movement and changed global Black politics / Adam Ewing.",
+			"isbns": [
+				"9781400852444"
+			]
+		},
+		{
+			"label": "Dark Victorians",
+			"isbns": [
+				"9780252032561",
+				"9780252090981"
+			]
+		},
+		{
+			"label": "Dark Victorians / Vanessa D. Dickerson.",
+			"isbns": [
+				"9780252090981"
+			]
+		},
+		{
+			"label": "Mongrel Nation : Diasporic Culture and the Making of Postcolonial Britain",
+			"isbns": [
+				"9780472069910",
+				"9780472099917",
+				"9780472025053",
+				"9780472900978"
+			]
+		},
+		{
+			"label": "Mongrel nation : diasporic culture and the making of postcolonial Britain / Ashley Dawson.",
+			"isbns": [
+				"9780472025053",
+				"9781282591479",
+				"9786612591471",
+				"9780472900978"
+			]
+		},
+		{
+			"label": "Black Handsworth : race in 1980s Britain / Kieran Connell.",
+			"isbns": [
+				"9780520971950"
+			]
+		},
+		{
+			"label": "Black Sexual Politics : African Americans, Gender, and the New Racism",
+			"isbns": [
+				"9780415930994",
+				"9780415951500",
+				"9781135955380",
+				"9781135955373",
+				"9781135955359",
+				"9780203309506"
+			]
+		},
+		{
+			"label": "Black sexual politics : African Americans, gender, and the new racism / Patricia Hill Collins.",
+			"isbns": [
+				"9780203309506",
+				"9781135955380",
+				"9781135955373"
+			]
+		},
+		{
+			"label": "The fortunes of Francis Barber : the true story of the Jamaican slave who became Samuel Johnson's heir / Michael Bundock.",
+			"isbns": [
+				"9780300207101"
+			]
+		},
+		{
+			"label": "The fortunes of Francis Barber : the true story of the Jamaican slave who became Samuel Johnson's heir / Michael Bundock.",
+			"isbns": [
+				"9780300213904"
+			]
+		},
+		{
+			"label": "Set the world on fire : black nationalist women and the global struggle for freedom / Keisha N. Blain.",
+			"isbns": [
+				"9780812294774"
+			]
+		},
+		{
+			"label": "Toward an intellectual history of Black women / edited by Mia Bay, Farah J. Griffin, Martha S. Jones, and Barbara D. Savage.",
+			"isbns": [
+				"9781469620916"
+			]
+		},
+		{
+			"label": "Toward an Intellectual History of Black Women",
+			"isbns": [
+				"9781469620923",
+				"9781469620916",
+				"9781469623108"
+			]
+		},
+		{
+			"label": "Toward an intellectual history of Black women / edited by Mia Bay, Farah J. Griffin, Martha S. Jones, and Barbara D. Savage.",
+			"isbns": [
+				"9781469623108",
+				"9781469620923"
+			]
+		},
+		{
+			"label": "The half has never been told : slavery and the making of American capitalism / Edward E. Baptist.",
+			"isbns": [
+				"9780465049660"
+			]
+		},
+		{
+			"label": "The half has never been told : slavery and the making of American capitalism / Edward E. Baptist.",
+			"isbns": [
+				"9780465044702",
+				"9780465097685"
+			]
+		},
+		{
+			"label": "Back to Black: Retelling Black Radicalism for the 21st Century",
+			"isbns": [
+				"9781786992789"
+			]
+		},
+		{
+			"label": "Back to Black : retelling Black radicalism for the 21st century / Kehinde Andrews.",
+			"isbns": [
+				"9781786992796",
+				"9781786992802",
+				"9781786992819"
+			]
+		},
+		{
+			"label": "Have Black lives ever mattered? / Mumia Abu-Jamal.",
+			"isbns": [
+				"9780872867390"
+			]
+		},
+		{
+			"label": "The Cambridge Companion to British Black and Asian Literature (1945-2010)",
+			"isbns": [
+				"9781316504802",
+				"9781107139244"
+			]
+		},
+		{
+			"label": "The Cambridge companion to British Black and Asian literature (1945-2010) / edited by Deirdre Osborne.",
+			"isbns": [
+				"9781316488546"
+			]
+		},
+		{
+			"label": "Beginning postcolonialism John McLeod.",
+			"isbns": [
+				"9781847794055"
+			]
+		},
+		{
+			"label": "Beginning postcolonialism / John McLeod.",
+			"isbns": [
+				"9780719078583"
+			]
+		},
+		{
+			"label": "Decolonising multilingualism : struggles to decreate / Alison Phipps.",
+			"isbns": [
+				"9781788924054",
+				"9781788924047"
+			]
+		},
+		{
+			"label": "Decolonising Multilingualism : Struggles to Decreate. Phipps, Dr. Alison.",
+			"isbns": [
+				"9781788924078"
+			]
+		},
+		{
+			"label": "Palgrave handbook of media and communication research in africa.",
+			"isbns": [
+				"9783030099596"
+			]
+		},
+		{
+			"label": "The Palgrave handbook of media and communication research in Africa / Bruce Mutsvairo, editor.",
+			"isbns": [
+				"9783319704432"
+			]
+		},
+		{
+			"label": "Black Artists in British Art : A History Since the 1950s",
+			"isbns": [
+				"9781780762715",
+				"9780857736086",
+				"9780857724090"
+			]
+		},
+		{
+			"label": "Black artists in British art : a history since the 1950s / Eddie Chambers.",
+			"isbns": [
+				"9781780762715",
+				"9781780762722"
+			]
+		},
+		{
+			"label": "The Cambridge history of African American literature / edited by Maryemma Graham and Jerry W. Ward, Jr.",
+			"isbns": [
+				"9780511780967",
+				"9780511780967",
+				"9781107571815"
+			]
+		},
+		{
+			"label": "African American Arts : Activism, Aesthetics, and Futurity",
+			"isbns": [
+				"9781684481521",
+				"9781684481538",
+				"9781684481569",
+				"9781684481545"
+			]
+		},
+		{
+			"label": "Decolonizing sociology : an introduction / Ali Meghji.",
+			"isbns": [
+				"9781509541942",
+				"9781509541959",
+				"9781509541966"
+			]
+		},
+		{
+			"label": "Decolonizing social work / edited by Mel Gray, John Coates, Michael Yellow Bird, Tiani Hetherington.",
+			"isbns": [
+				"9781409426325"
+			]
+		},
+		{
+			"label": "Objectivity and diversity : another logic of scientific research / Sandra Harding.",
+			"isbns": [
+				"9780226241531"
+			]
+		},
+		{
+			"label": "Is Science Multicultural? : Postcolonialisms, Feminisms, and Epistemologies",
+			"isbns": [
+				"9780253333650",
+				"9780585037677"
+			]
+		},
+		{
+			"label": "Superior : the return of race science / Angela Saini.",
+			"isbns": [
+				"9780807028421"
+			]
+		},
+		{
+			"label": "The decolonisation of the curriculum project : the affordances of indigenous knowledge for self-directed learning / edited by Josef de Beer.",
+			"isbns": [
+				"9781928523178",
+				"9781928523185"
+			]
+		},
+		{
+			"label": "Rethinking Freire : Globalization and the Environmental Crisis",
+			"isbns": [
+				"9780805851144",
+				"9781138866850",
+				"9781135609023",
+				"9781135609016",
+				"9781135608996",
+				"9781410611741"
+			]
+		},
+		{
+			"label": "Algorithms of Oppression : How Search Engines Reinforce Racism",
+			"isbns": [
+				"9781479849949",
+				"9781479833641"
+			]
+		},
+		{
+			"label": "Algorithms of oppression : how search engines reinforce racism / Safiya Umoja Noble.",
+			"isbns": [
+				"9781479837243",
+				"9781479849949"
+			]
+		},
+		{
+			"label": "Algorithms of oppression : how search engines reinforce racism / Safiya Umoja Noble.",
+			"isbns": [
+				"9781479833641"
+			]
+		},
+		{
+			"label": "Braiding sweetgrass : indigenous wisdom, scientific knowledge and the teachings of plants / Robin Wall Kimmerer.",
+			"isbns": [
+				"9781571318718",
+				"9781306435529",
+				"9781571313560"
+			]
+		},
+		{
+			"label": "On decoloniality : concepts, analytics, praxis / Walter D. Mignolo and Catherine E. Walsh.",
+			"isbns": [
+				"9780822371779"
+			]
+		},
+		{
+			"label": "Decolonising the University: The Challenge of Deep Cognitive Justice",
+			"isbns": [
+				"9781527500037",
+				"9781527509467"
+			]
+		},
+		{
+			"label": "Decolonising the university : the challenge of deep cognitive justice / by Boaventura de Sousa Santos.",
+			"isbns": [
+				"9781527500037",
+				"9781527509467"
+			]
+		}
+	]
 }
