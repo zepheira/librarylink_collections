@@ -1,0 +1,98 @@
+{
+	"label": "Talking with Australian Kids about Anti-Racism",
+	"description": "These books are the perfect jumping board for families to talk about Australia’s historical treatment of our Aboriginal and Torres Strait Islander peoples.",
+	"list": [{
+			"label": "Fair Skin Black Fella",
+			"isbns": [
+				"9781922552921"
+			]
+		},
+		{
+			"label": "My Place for Younger Readers",
+			"isbns": [
+				"9781925816792",
+				"9781925816761"
+			]
+		},
+		{
+			"label": "Young Dark Emu",
+			"isbns": [
+				"9781867587323",
+				"9781867587545",
+				"9781867582441",
+				"9781867591191",
+				"9781867591153",
+				"9780369346551",
+				"9781925360844",
+				"9781925768824",
+				"9781867591160",
+				"9781867591177",
+				"9781867591184",
+				"9781867591207",
+				"9780369347176",
+				"9781925768817"
+
+			]
+		},
+		{
+			"label": "Sister Heart",
+			"isbns": [
+				"9781925163223",
+				"9780369341518",
+				"9780369345295",
+				"9781925163131",
+				"9781925163216",
+				"9781925163230"
+			]
+		},
+		{
+			"label": "Sorry Day",
+			"isbns": [
+				"9781922552587",
+				"9780642279033",
+				"9780642279651"
+			]
+		},
+		{
+			"label": "Stolen Girl",
+			"isbns": [
+				"9798200230501",
+				"9798200230518",
+				"9781705229361",
+				"9781338233049",
+				"9781338233063",
+				"9781338665147",
+				"9781705229378",
+				"9781338538717"
+			]
+		},
+		{
+			"label": "Welcome to Country",
+			"isbns": [
+				"9780763694999",
+				"9781922244871",
+				"9781760651619",
+				"9781760652005",
+				"9781760656218",
+				"9781760652173",
+				"9781922567536"
+			]
+		},
+		{
+			"label": "Why I Love Australia",
+			"isbns": [
+				"9781921541780",
+				"9781760125127",
+				"9781921894053",
+				"9781742735764",
+				"9781921714313"
+			]
+		},
+		{
+			"label": "Willy-willy Wagtail (Tales from the Bush Mob)",
+			"isbns": [
+				"9781925936605"
+			]
+		}
+	]
+}
