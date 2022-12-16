@@ -1,0 +1,195 @@
+{
+ "label": "NPR's Books We Love: Comics and Graphic Novels",
+ "description": "Experience the power of visual storytelling with NPR's Books We Love program. Discover new worlds and characters and be captivated by the unique artistry of these graphic works.",
+ "list": [
+	{
+       "label": "All Your Racial Problems Will Soon End: The Cartoons of Charles Johnson",
+       "isbns": [
+        "9781681376738"
+			
+       ]
+     },
+    {
+      "label": "The Aquanaut",
+      "isbns": [
+        "9780545497619",
+        "9780545497602",
+		"9780545500548"
+      ]
+    },
+	{
+			"lable": "Birds of Maine",
+			"isbns": [
+			"9780691193199",
+			"9780691211855"
+			]
+			
+		},	 
+		{
+			"lable":"Ducks: Two Years in the Oil Sands",
+			"isbns":[
+			"9781770462892",
+			"9781770466531",
+			"9781787330139",
+			"9781473549302",
+			"9798353094135"
+			]
+
+		},
+		{
+			"lable": "The Flamingo",
+			"isbns": [
+			"9780593127315",
+			"9780593127322",
+			"9780593127339"
+			]
+		},
+		{
+			"lable": "Flung Out of Space: Inspired by the Indecent Adventures of Patricia Highsmith",
+			"isbns": [
+			"9781419744334",
+			"9781683359111"
+			]
+		},
+		{
+			"lable": "Growing Pangs",
+			"isbns": [
+			"9780593301319",
+			"9780593301289",
+			"9780593301296",
+			"9780593301302",
+			"9781338861563"
+			]
+		},
+		{
+			"lable":"It Won't Always Be Like This: A Graphic Memoir",
+			"isbns":[
+			"9781984860293",
+			"9781984860309"
+			]
+		},
+		{
+			"lable":"The Keeper",
+			"isbns":[
+			"9780060872908",
+			"9780061173028",
+			"9780061244599",
+			"9780061244605",
+			"9780061841156",
+			"9780755333691",
+			"9780755333707",
+			"9780755333714",
+			"9780061244612",
+			"9780061244629",
+			"9780061244636",
+			"9780061244827",
+			"9780739473566"
+			]
+		},
+		{
+			"lable":"Little Monarchs",
+			"isbns":[
+			"9780823442607",
+			"9780823451395",
+			"9780823452811"
+			]
+		},
+		{
+			"lable":"Miss Quinces: A Graphic Novel",
+			"isbns":[
+			"9781338535587",
+			"9781338535594",
+			"9781338535655",
+			"9781338746495",
+			"9781338806113"
+			]
+		},
+		{
+			"lable":"Muhammad Najem, War Reporter: How One Boy Put the Spotlight on Syria",
+			"isbns":[
+			"9780759556898",
+			"9780759556904",
+			"9780759556911",
+			"9781536476002",
+			"9780316332194",
+			"9780316332378"
+			]
+		},
+		{
+			"lable":"The Night Eaters: She Eats the Night",
+			"isbns":[
+			"9781419758706",
+			"9781647005269",
+			"9781787740433",
+			"9781787739666"
+			]
+		},
+		{
+			"lable":"The Peanutbutter Sisters and Other American Stories",
+			"isbns":[
+			"9781770464957",
+			"9781770466456"
+			]
+		},
+		{
+			"lable":"Red Scare: A Graphic Novel",
+			"isbns":[
+			"9781338167085",
+			"9781338167092",
+			"9781338167108"
+			]
+		},
+		{
+			"lable":"Smahtguy: The Life and Times of Barney Frank",
+			"isbns":[
+			"9781250191588",
+			"9781250191595"
+			]
+		},
+		{
+			"lable":"Tangier in the Rain",
+			"isbns":["9791032813171"]
+		},
+		{
+			"lable":"The Third Person",
+			"isbns":[
+			"9780745643977",
+			"9780745643984",
+			"9781509526192"
+			]
+		},
+		{
+			"label":"Time Zone J",
+			"isbns":["9781770464988"]
+		},
+		{
+			"label":"Tokyo Rose – Zero Hour: A Japanese American Woman's Persecution and Ultimate Redemption After World War II",
+			"isbns":["9781462923502"]
+		},
+		{
+			"label":"Victory. Stand!: Raising My Fist for Justice",
+			"isbns":[
+			"9781324003908",
+			"9781324003915",
+			"9781324052159",
+			"9781324052692"
+			]
+		},
+		{
+			"label":"What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
+			"isbns":["9783641240257"]
+		},
+		{
+			"label":"What is Home, Mum?",
+			"isbns":["9781951491178"]
+		},
+		{
+			"label":"Who Will Make the Pancakes: Five Stories",
+			"isbns":[
+			"9781683966708",
+			"9781683967415"
+			]
+		}
+    
+ ]
+}
