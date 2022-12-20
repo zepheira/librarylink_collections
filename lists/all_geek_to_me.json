@@ -1,0 +1,317 @@
+{
+  "label": "Books We Love: It's All Geek To Me",
+  "description": "Geek out with NPR's Books We Love program. This selection of books for geeks offers a wide range of genres and interests, from science fiction and fantasy to comics and gaming, from technology and engineering to math and science.",
+  "list": [
+    {
+      "label": "Adam Smith’s America: How a Scottish Philosopher Became an Icon of American Capitalism",
+      "isbns": [
+        "9798765068144",
+        "9780691240879",
+        "9780691203812"
+      ]
+    },
+    {
+      "label": "Age of Cage: Four Decades of Hollywood Through One Singular Career",
+      "isbns": [
+        "9798212305280",
+        "9798212305297",
+        "9798212305303",
+        "9781666133080",
+        "9781250773036",
+        "9781250773043",
+        "9781250848826"
+      ]
+    },
+    {
+      "label": "American Murderer: The Parasite That Haunted the South",
+      "isbns": [
+        "9781635928297",
+        "9781684378159"
+      ]
+    },
+    {
+      "label": "Camera Man: Buster Keaton, the Dawn of Cinema, and the Invention of the Twentieth Century",
+      "isbns": [
+        "9781797139999",
+        "9781797139975",
+        "9781501134197",
+        "9781501134203",
+        "9781501134210"
+      ]
+    },
+    {
+      "label": "The Candy House: A Novel",
+      "isbns": [
+        "9781476716763",
+        "9781797128405",
+        "9781405538862",
+        "9781797128412",
+        "9781432895587",
+        "9781472150912",
+        "9781472150929",
+        "9781472150936",
+        "9781472150943",
+        "9781476716770",
+        "9781476716787",
+        "9786555604146",
+        "9781668000441",
+        "9781472157386",
+        "9781982196516"
+      ]
+    },
+    {
+      "label": "The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World",
+      "isbns": [
+        "9781668614785",
+        "9781549159237",
+        "9780316703314",
+        "9780316703321",
+        "9781529416374",
+        "9781529416381",
+        "9781529416404",
+        "9781668614778",
+        "9781529416367",
+        "9781668612453"
+      ]
+    },
+    {
+      "label": "Dark Goals: How History’s Worst Tyrants Have Used and Abused the Game of Soccer",
+      "isbns": [
+        "9781989555927",
+        "9781989555842"
+      ]
+    },
+    {
+      "label": "How to Read Now: Essays",
+      "isbns": [
+        "9780593590546",
+        "9780593489635",
+        "9780593489642",
+        "9781838954925",
+        "9781838954949",
+        "9781004103300",
+        "9781838954956"
+      ]
+    },
+    {
+      "label": "How to Take Over the World: Practical Schemes and Scientific Solutions for the Aspiring Supervillain",
+      "isbns": [
+        "9780593555507",
+        "9780593541531",
+        "9780593192016",
+        "9780593192030"
+      ]
+    },
+    {
+      "label": "Human Resources: Poems",
+      "isbns": [
+        "9781571315182",
+        "9781639550432",
+        "9781667975627"
+      ]
+    },
+    {
+      "label": "It's Not TV: The Spectacular Rise, Revolution, and Future of HBO",
+      "isbns": [
+        "9780593628980",
+        "9780593296196",
+        "9780593296202",
+        "9780593653104"
+      ]
+    },
+    {
+      "label": "The Letters of Oscar Hammerstein II",
+      "isbns": [
+        "9780197538180",
+        "9780197538203",
+        "9780197538197",
+        "9780197538210"
+      ]
+    },
+    {
+      "label": "Making Videogames: The Art of Creating Digital Worlds",
+      "isbns": [
+        "9780500023143"
+      ]
+    },
+    {
+      "label": "The Memory Librarian: And Other Stories of Dirty Computer",
+      "isbns": [
+        "9798200856961",
+        "9798200856978",
+        "9798200856985",
+        "9780008512439",
+        "9780063070905",
+        "9780008512408",
+        "9780008512415",
+        "9780008512422",
+        "9780008512446",
+        "9780063070875",
+        "9780063070882",
+        "9780063070899"
+      ]
+    },
+    {
+      "label": "Men in Blazers Present Gods of Soccer: The Pantheon of the 100 Greatest Soccer Players (According to Us)",
+      "isbns": [
+        "9781797208039",
+        "9781797208015"
+      ]
+    },
+    {
+      "label": "Mickey7: A Novel",
+      "isbns": [
+        "9781786185457",
+        "9781250275035",
+        "9781250275042",
+        "9781250875280",
+        "9781781089231",
+        "9781786185464"
+      ]
+    },
+    {
+      "label": "Nasty, Brutish, and Short: Adventures in Philosophy with My Kids",
+      "isbns": [
+        "9780141999173",
+        "9780593557334",
+        "9780593557341",
+        "9780141993027",
+        "9780141993034",
+        "9780241448793",
+        "9781984881816",
+        "9781984881823"
+      ]
+    },
+    {
+      "label": "The Nineties: A Book",
+      "isbns": [
+        "9780593555545",
+        "9780735217959",
+        "9780735217966",
+        "9780735217973",
+        "9780593555552"
+      ]
+    },
+    {
+      "label": "Nomad Century: How Climate Migration Will Reshape Our World",
+      "isbns": [
+        "9781250855862",
+        "9781250821614",
+        "9781250832696",
+        "9781250847119"
+      ]
+    },
+    {
+      "label": "The Novelist: A Novel",
+      "isbns": [
+        "9798212024976",
+        "9798212024983",
+        "9781593767136",
+        "9781593767143",
+        "9781593767259"
+      ]
+    },
+    {
+      "label": "The Paradox Hotel: A Novel",
+      "isbns": [
+        "9780593499085",
+        "9780593506837",
+        "9781984820648",
+        "9781984820655",
+        "9781984820662",
+        "9798885780049",
+        "9780593506844"
+      ]
+    },
+    {
+      "label": "The Power Law: Venture Capital and the Making of the New Future",
+      "isbns": [
+        "9780525637714",
+        "9780525637721",
+        "9780525559993",
+        "9780525560005",
+        "9780593491782"
+      ]
+    },
+    {
+      "label": "The Power of Regret: How Looking Backward Moves Us Forward",
+      "isbns": [
+        "9780593555569",
+        "9780593555576",
+        "9780593541487",
+        "9780593556436",
+        "9780735210653",
+        "9780735210677",
+        "9781838857028",
+        "9781838857035",
+        "9781838857042",
+        "9781838857066",
+        "9780593713020",
+        "9780593555583",
+        "9781038601445",
+        "9781867559825"
+      ]
+    },
+    {
+      "label": "Spine Poems: An Eclectic Collection of Found Verse for Book Lovers",
+      "isbns": [
+        "9780063208223",
+        "9780063208230"
+      ]
+    },
+    {
+      "label": "Star Child: A Biographical Constellation of Octavia Estelle Butler",
+      "isbns": [
+        "9780593503232",
+        "9780399187384",
+        "9780399187391",
+        "9780399187407",
+        "9780593503249"
+      ]
+    },
+    {
+      "label": "Tomorrow, and Tomorrow, and Tomorrow: A Novel",
+      "isbns": [
+        "9780593591635",
+        "9781529193626",
+        "9780593321201",
+        "9780593321218",
+        "9780593466490",
+        "9780593607831",
+        "9780735243347",
+        "9780735243354",
+        "9781473597402",
+        "9781524712228",
+        "9781784744649",
+        "9781784744656"
+      ]
+    },
+    {
+      "label": "Transforming Space Over Time: Set Design and Visual Storytelling with Broadway’s Legendary Directors",
+      "isbns": [
+        "9781493064847",
+        "9781493064854"
+      ]
+    },
+    {
+      "label": "The Treeline: The Last Forest and the Future of Life on Earth",
+      "isbns": [
+        "9781250270238",
+        "9781250830845",
+        "9781529193589",
+        "9781250270245",
+        "9781473574977",
+        "9781529112504",
+        "9781787332249",
+        "9781787332256",
+        "9781250905963"
+      ]
+    },
+    {
+      "label": "What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
+      "isbns": [
+        "9783641240257"
+      ]
+    }
+  ]
+}
