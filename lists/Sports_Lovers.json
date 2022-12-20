@@ -1,0 +1,81 @@
+{
+  "label": "Books We Love For Sports Lovers",
+  "description": "Experience the excitement and drama of sports with NPR's Books We Love program. This selection of books for sports lovers covers a wide range of sports, from football and baseball to basketball and soccer, from the history of sports to the lives of athletes.",
+  "list": [
+    {
+      "label": "Carrie Soto Is Back: A Novel",
+      "isbns": [
+        "9780593614150",
+        "9780593614167",
+        "9781804940464",
+        "9783748403739",
+        "9780385695794",
+        "9780385695800",
+        "9780593158685",
+        "9780593158692",
+        "9780593632109",
+        "9781529152128",
+        "9781529152135",
+        "9781804940877",
+        "9780593722954",
+        "9780593500958",
+        "9780593614174",
+        "9781529152142"
+      ]
+    },
+    {
+      "label": "Dark Goals: How History’s Worst Tyrants Have Used and Abused the Game of Soccer",
+      "isbns": [
+        "9781989555927",
+        "9781989555842"
+      ]
+    },
+    {
+      "label": "The Last Folk Hero: The Life and Myth of Bo Jackson",
+      "isbns": [
+        "9798212036597",
+        "9798212036603",
+        "9798212036580",
+        "9780358726883",
+        "9780063268166",
+        "9780358437673",
+        "9780358438717"
+      ]
+    },
+    {
+      "label": "Men in Blazers Present Gods of Soccer: The Pantheon of the 100 Greatest Soccer Players (According to Us)",
+      "isbns": [
+        "9781797208039",
+        "9781797208015"
+      ]
+    },
+    {
+      "label": "The Nineties: A Book",
+      "isbns": [
+        "9780593555545",
+        "9780735217959",
+        "9780735217966",
+        "9780735217973",
+        "9780593555552"
+      ]
+    },
+    {
+      "label": "Skater Cielo",
+      "isbns": [
+        "9781338751116",
+        "9781338867916",
+        "9781338874112",
+        "9781338880601"
+      ]
+    },
+    {
+      "label": "Victory. Stand!: Raising My Fist for Justice",
+      "isbns": [
+        "9781324003908",
+        "9781324003915",
+        "9781324052159",
+        "9781324052692"
+      ]
+    }
+  ]
+}
