@@ -1,0 +1,485 @@
+{
+  "label": "Books We Love For History Lovers",
+  "description": "Immerse yourself in the past with NPR's Books We Love program. This selection of books for history lovers offers a rich and diverse range of periods and topics, from ancient civilizations to modern conflicts, from political revolutions to social movements.",
+  "list": [
+    {
+      "label": "Adam Smith’s America: How a Scottish Philosopher Became an Icon of American Capitalism",
+      "isbns": [
+        "9798765068144",
+        "9780691240879",
+        "9780691203812"
+      ]
+    },
+    {
+      "label": "African Town",
+      "isbns": [
+        "9780593503171",
+        "9780593503188",
+        "9780593322888",
+        "9780593322895",
+        "9780593322901"
+      ]
+    },
+    {
+      "label": "American Murderer: The Parasite That Haunted the South",
+      "isbns": [
+        "9781635928297",
+        "9781684378159"
+      ]
+    },
+    {
+      "label": "An American Martyr in Persia: The Epic Life and Tragic Death of Howard Baskerville",
+      "isbns": [
+        "9781705075128",
+        "9781705075135",
+        "9781705075142",
+        "9781324004479",
+        "9781324004486"
+      ]
+    },
+    {
+      "label": "Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution",
+      "isbns": [
+        "9780063021426",
+        "9780063021440",
+        "9798200975853",
+        "9798200975860",
+        "9798200975846",
+        "9780008501846",
+        "9780063021457",
+        "9780008501815",
+        "9780008501822",
+        "9780008501839",
+        "9780008501853",
+        "9780063282056",
+        "9798885783644"
+      ]
+    },
+    {
+      "label": "Bad Sex: Truth, Pleasure, and an Unfinished Revolution",
+      "isbns": [
+        "9780593585719",
+        "9780593182765",
+        "9780593182772"
+      ]
+    },
+    {
+      "label": "Blood and Ruins: The Last Imperial War, 1931-1945",
+      "isbns": [
+        "9780141927831",
+        "9780241300930",
+        "9780593489437",
+        "9780670025169",
+        "9780713995626"
+      ]
+    },
+    {
+      "label": "Blue: A History of the Color as Deep as the Sea and as Wide as the Sky",
+      "isbns": [
+        "9780593509326",
+        "9781984894366",
+        "9781984894373",
+        "9781984894380"
+      ]
+    },
+    {
+      "label": "By Hands Now Known: Jim Crow's Legal Executioners",
+      "isbns": [
+        "9781696609517",
+        "9780393867855",
+        "9780393867862"
+      ]
+    },
+    {
+      "label": "Camera Man: Buster Keaton, the Dawn of Cinema, and the Invention of the Twentieth Century",
+      "isbns": [
+        "9781797139999",
+        "9781797139975",
+        "9781501134197",
+        "9781501134203",
+        "9781501134210"
+      ]
+    },
+    {
+      "label": "Dark Goals: How History’s Worst Tyrants Have Used and Abused the Game of Soccer",
+      "isbns": [
+        "9781989555927",
+        "9781989555842"
+      ]
+    },
+    {
+      "label": "Dear Denise: Letters to the Sister I Never Knew",
+      "isbns": [
+        "9780817321352",
+        "9780817394165"
+      ]
+    },
+    {
+      "label": "Diary of a Misfit: A Memoir and a Mystery",
+      "isbns": [
+        "9780593591536",
+        "9780525658535",
+        "9780525658542",
+        "9780593081105"
+      ]
+    },
+    {
+      "label": "The First Kennedys: The Humble Roots of an American Dynasty",
+      "isbns": [
+        "9780358578383",
+        "9780358578796",
+        "9798200736188",
+        "9780063268593",
+        "9780358437697",
+        "9780358438724",
+        "9781432899165",
+        "9798200736171"
+      ]
+    },
+    {
+      "label": "Glory: A Novel",
+      "isbns": [
+        "9780593289860",
+        "9781473599024",
+        "9780525561132",
+        "9780525561149",
+        "9780525561156",
+        "9780593295595",
+        "9780593492499",
+        "9780735236646",
+        "9780735236660",
+        "9781473589452",
+        "9781529114225",
+        "9781784744298",
+        "9781784744304",
+        "9780593289877"
+      ]
+    },
+    {
+      "label": "The Grimkes: The Legacy of Slavery in an American Family",
+      "isbns": [
+        "9781324090847",
+        "9781324090854",
+        "9781324090854"
+      ]
+    },
+    {
+      "label": "Hanged! Mary Surratt and the Plot to Assassinate Abraham Lincoln",
+      "isbns": [
+        "9780593609637",
+        "9780593181560",
+        "9780593181577",
+        "9780593181584"
+      ]
+    },
+    {
+      "label": "Hell's Half-Acre: The Untold Story of the Benders, a Serial Killer Family on the American Frontier",
+      "isbns": [
+        "9780062422552",
+        "9780062422569",
+        "9781539048671"
+      ]
+    },
+    {
+      "label": "The Immortal King Rao",
+      "isbns": [
+        "9780393541755",
+        "9781705068472",
+        "9781004084128",
+        "9781705068496",
+        "9789354897832",
+        "9780393541762",
+        "9781324050308",
+        "9781611854312",
+        "9781611854411",
+        "9781611856491",
+        "9781611858853",
+        "9789354897825",
+        "9781705068489"
+      ]
+    },
+    {
+      "label": "In Defense of Witches: The Legacy of the Witch Hunts and Why Women Are Still on Trial",
+      "isbns": [
+        "9781250271419",
+        "9781250839589",
+        "9781250272225",
+        "9781250894878"
+      ]
+    },
+    {
+      "label": "In Sensorium: Notes for My People",
+      "isbns": [
+        "9780358449324",
+        "9780358449461",
+        "9798200736157",
+        "9798200736164",
+        "9780358380412",
+        "9780358381709"
+      ]
+    },
+    {
+      "label": "Koshersoul: The Faith and Food Journey of an African American Jew",
+      "isbns": [
+        "9798200975099",
+        "9798200975105",
+        "9798200975112",
+        "9780063090699",
+        "9780062891716",
+        "9780062891723",
+        "9780062891754"
+      ]
+    },
+    {
+      "label": "Lady Justice: Women, the Law, and the Battle to Save America",
+      "isbns": [
+        "9780593629642",
+        "9780525561385",
+        "9780525561392"
+      ]
+    },
+    {
+      "label": "Last Call at the Hotel Imperial: The Reporters Who Took On a World at War",
+      "isbns": [
+        "9780008305895",
+        "9780593416334",
+        "9780008305864",
+        "9780008305871",
+        "9780008305888",
+        "9780008305901",
+        "9780525511199",
+        "9780525511205",
+        "9780525511212",
+        "9780593416341"
+      ]
+    },
+    {
+      "label": "The Last Dreamwalker",
+      "isbns": [
+        "9781250870988",
+        "9781250805614",
+        "9781250805621",
+        "9781250805638"
+      ]
+    },
+    {
+      "label": "The Last Slave Ship: The True Story of How 'Clotilda' Was Found, Her Descendants, and an Extraordinary Reckoning",
+      "isbns": [
+        "9781797138084",
+        "9781797138107",
+        "9781982136048",
+        "9781982136154",
+        "9781982136161"
+      ]
+    },
+    {
+      "label": "The Letters of Oscar Hammerstein II",
+      "isbns": [
+        "9780197538180",
+        "9780197538203",
+        "9780197538197",
+        "9780197538210"
+      ]
+    },
+    {
+      "label": "Masa: Techniques, Recipes, and Reflections on a Timeless Staple",
+      "isbns": [
+        "9781797209913",
+        "9781797209920"
+      ]
+    },
+    {
+      "label": "The Monsters We Defy",
+      "isbns": [
+        "9781405557344",
+        "9781668605813",
+        "9780316377911",
+        "9780316378024",
+        "9780356518091",
+        "9780356518107"
+      ]
+    },
+    {
+      "label": "Mother Ocean Father Nation: A Novel",
+      "isbns": [
+        "9798200971732",
+        "9798200971749",
+        "9798200971756",
+        "9780063211803",
+        "9780063211780",
+        "9780063211797",
+        "9780063211810",
+        "9780063242395"
+      ]
+    },
+    {
+      "label": "The Nineties: A Book",
+      "isbns": [
+        "9780593555545",
+        "9780735217959",
+        "9780735217966",
+        "9780735217973",
+        "9780593555552"
+      ]
+    },
+    {
+      "label": "Origin: A Genetic History of the Americas",
+      "isbns": [
+        "9781668607640",
+        "9781668607664",
+        "9781549148385",
+        "9781538749692",
+        "9781538749708",
+        "9781538749715",
+        "9781538708842"
+      ]
+    },
+    {
+      "label": "Portrait of a Thief: A Novel",
+      "isbns": [
+        "9780593510957",
+        "9780593184738",
+        "9780593186060",
+        "9780593186077",
+        "9780593471708",
+        "9781529386394",
+        "9781529386400",
+        "9780593510964"
+      ]
+    },
+    {
+      "label": "The Power Law: Venture Capital and the Making of the New Future",
+      "isbns": [
+        "9780525637714",
+        "9780525637721",
+        "9780525559993",
+        "9780525560005",
+        "9780593491782"
+      ]
+    },
+    {
+      "label": "The Revolutionary: Samuel Adams",
+      "isbns": [
+        "9781668630174",
+        "9781478993278",
+        "9781478993285",
+        "9780316441100",
+        "9780316441117"
+      ]
+    },
+    {
+      "label": "River of the Gods: Genius, Courage, and Betrayal in the Search for the Source of the Nile",
+      "isbns": [
+        "9780525524076",
+        "9780525524083",
+        "9780385543101",
+        "9780385543118",
+        "9780593607817",
+        "9781800752610",
+        "9781800752627"
+      ]
+    },
+    {
+      "label": "Rogues: True Stories of Grifters, Killers, Rebels and Crooks",
+      "isbns": [
+        "9780593591710",
+        "9781035001781",
+        "9780385548519",
+        "9780385548526",
+        "9780385675451",
+        "9780385675468",
+        "9780593607800",
+        "9781035001743",
+        "9781035001750",
+        "9781035001767",
+        "9781035001774",
+        "9781761262418"
+      ]
+    },
+    {
+      "label": "The Rupture Tense: Poems",
+      "isbns": [
+        "9781644451854",
+        "9781644452011",
+        "9781705093504",
+        "9781705093511",
+        "9781705093528"
+      ]
+    },
+    {
+      "label": "Rust in the Root",
+      "isbns": [
+        "9798212036023",
+        "9798212036030",
+        "9780063038257",
+        "9780063038226",
+        "9780063038240",
+        "9798212036016"
+      ]
+    },
+    {
+      "label": "Salmon P. Chase: Lincoln's Vital Rival",
+      "isbns": [
+        "9781797135342",
+        "9781797135328",
+        "9781501199233",
+        "9781501199240",
+        "9781501199257"
+      ]
+    },
+    {
+      "label": "Scoundrel: How a Convicted Murderer Persuaded the Women Who Loved Him, the Conservative Establishment, and the Courts to Set Him Free",
+      "isbns": [
+        "9798200853670",
+        "9798200853687",
+        "9798200853694",
+        "9780062899804",
+        "9781039004283",
+        "9780062899767",
+        "9780062899798",
+        "9780063211087",
+        "9780735272767",
+        "9780735272781",
+        "9781039571853"
+      ]
+    },
+    {
+      "label": "Smahtguy: The Life and Times of Barney Frank",
+      "isbns": [
+        "9781250191588",
+        "9781250191595"
+      ]
+    },
+    {
+      "label": "The Southernization of America: A Story of Democracy in the Balance",
+      "isbns": [
+        "9798765072080",
+        "9781588384560",
+        "9781588384607"
+      ]
+    },
+    {
+      "label": "Tokyo Rose – Zero Hour: A Japanese American Woman's Persecution and Ultimate Redemption After World War II",
+      "isbns": [
+        "9781975859497",
+        "9781975859503"
+      ]
+    },
+    {
+      "label": "What is Home, Mum?",
+      "isbns": [
+        "9781951491178"
+      ]
+    },
+    {
+      "label": "When the Angels Left the Old Country",
+      "isbns": [
+        "9781705082157",
+        "9781705082164",
+        "9781705082171",
+        "9781646141760",
+        "9781646142415"
+      ]
+    }
+  ]
+}
